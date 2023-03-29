@@ -23,6 +23,10 @@ export default {
       src: '/logo.png',
       alt: 'Logo',
     },
+    docFooter: {
+      prev: 'Página anterior',
+      next: 'Pagína siguiente'
+    },
     outline: [2, 5],
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/doofy-s-projects-704042607600205956' },
