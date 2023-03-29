@@ -9,5 +9,5 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 
 <div align="center">
   <h2>Servidor de Doofy's Projects</h2>
-  <a href="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
+  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
 </div>
