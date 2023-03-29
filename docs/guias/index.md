@@ -6,9 +6,9 @@ head:
     - name: description
       content: Un conjunto de guias y articulos hechos por y para la comunidad.
 ---
+
 <div align=center>
-<h1>Doofy's Projects</h1>
-<alt>Guías</alt>
+<img src="/assets/bannerindex.png" alt="Index Banner" />
 </div>
 
 ## ¿Qué es esto?

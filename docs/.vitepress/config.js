@@ -2,12 +2,14 @@ export default {
   head:[
     ['meta', { property: 'og:title', content: "Guías - Doofy's Projects" }],
     ['meta', { property: 'theme-color', content: '#4583df' }],
-    //['meta', { property: 'og:image', content: 'https://.png' }],
+    ['meta', { property: 'og:image', content: 'https://raw.githubusercontent.com/doofysP/GuiasDP/main/docs/public/DP.png' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     ['link', { rel: 'icon', href: '/DP.png' }]
   ],
   title: "Doofy's Projects",
+  titleTemplate: ":title - Doofy's Projects",
   appearance: 'dark',
+  description: "Guías independientes.",
   cleanUrls: true,
   base: '/',
   lang: 'es-ES',
@@ -80,7 +82,8 @@ export default {
       {
         text: '',
         items: [
-          { text: 'Contribución', link: '/creditos' },
+          { text: 'Contribución', link: '/contribucion' },
+          { text: 'Creditos', link: '/creditos' },
         ]
       }
     ],

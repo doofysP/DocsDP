@@ -13,12 +13,16 @@ hero:
   text: Un conjunto de guias y articulos
   tagline: Hechos por y para la comunidad
   image:
-    src: /DP.png
+    dark: /DP.png
+    light: /DPdark.png
     alt: Doofy's Projects
   actions:
     - theme: brand
       text: Ver guías
       link: /guias/
+    - theme: alt
+      text: Colaborar
+      link: /contribucion
 
 features:
   - icon: 📰
