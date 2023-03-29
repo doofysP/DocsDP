@@ -8,7 +8,7 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
-    "deploy": "gh-pages -d docs/.vitepress/dist",
-    "buildp": "vitepress build docs && gh-pages -d docs/.vitepress/dist"
+    "deploy": "echo docs.dprojects.org > docs/.vitepress/dist/CNAME  && gh-pages -d docs/.vitepress/dist",
+    "buildp": "vitepress build docs && echo docs.dprojects.org > docs/.vitepress/dist/CNAME  && gh-pages -d docs/.vitepress/dist"
   }
 }
