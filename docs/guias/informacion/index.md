@@ -13,6 +13,6 @@ head:
 ## Contenido
 | Categoria | Guía | Enlace |
 |:---------:|:----:|:------:|
-| | | |
+| `Sin categoria` | Tengo UEFI o BIOS | [Ingresar](/guias/informacion/bios-uefi) |
 
 </div>
