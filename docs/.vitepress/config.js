@@ -61,9 +61,9 @@ export default {
               text: 'Información',
               link: '/guias/informacion/',
               collapsed: true,
-//              items: [
-//                  { text: 'A', link: '/' },
-//              ]
+              items: [
+                  { text: 'Conocer si soy BIOS o UEFI', link: '/guias/informacion/bios-uefi' },
+              ]
             },
             {
               text: 'Optimización',
