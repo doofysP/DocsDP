@@ -1,4 +1,5 @@
 ---
+editLink: false
 head:
   - - meta
     - name: og:description
