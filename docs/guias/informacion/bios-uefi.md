@@ -58,6 +58,7 @@ Sucede que cuando se instala el sistema, dependiendo del tipo de tecnología, cr
 ## Método 3: Esquema de Partición
 Ligado con el tipo de BIOS, el esquema de partición suele indicar qué tipo de tecnología es por el esquema que cuenta una partición del sistema.
 
+### Consola de comandos
 Para empezar debemos de abrir la consola del sistema, es decir, `CMD` o `Powershell`.
 
   1. Escribir dentro de la consola `diskpart`; esto abrirá una nueva consola lista para conocer información del disco
