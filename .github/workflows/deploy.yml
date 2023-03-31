@@ -1,4 +1,4 @@
-name: Deploy por @${{ github.actor }}
+name: Deploys
 
 on:
   workflow_dispatch: {}
