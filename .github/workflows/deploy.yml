@@ -3,8 +3,10 @@ name: Deploy por @${{ github.actor }}
 on:
   workflow_dispatch: {}
   push:
-    branches:
-      - main
+    paths-ignore:
+      - 'README.md'
+      - 'LICENCE'
+      - '.gitignore'
 
 jobs:
   deploy:
