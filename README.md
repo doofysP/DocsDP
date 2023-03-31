@@ -1,3 +1,8 @@
+<div align="center">
+<a href="https://github.com/doofysP/GuiasDP/actions">
+<img src="https://github.com/doofysP/GuiasDP/actions/workflows/deploy.yml/badge.svg" alt="Deploy GH Actions"></img>
+</a>
+</div>
 
 <div align="center">
   <h1>Guías - Doofy's Projects</h1>
