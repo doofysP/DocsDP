@@ -28,6 +28,10 @@ export default {
       next: 'Pagína siguiente'
     },
     outline: [2, 5],
+    editLink: {
+      pattern: 'https://github.com/doofysp/GuiasDP/edit/main/docs/:path',
+      text: 'Editar esta página en GitHub'
+    },
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/doofy-s-projects-704042607600205956' },
       { icon: 'facebook', link: 'https://www.facebook.com/groups/dprojects' },
