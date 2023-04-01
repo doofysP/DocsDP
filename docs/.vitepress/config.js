@@ -73,17 +73,11 @@ export default {
               text: 'Optimización',
               link: '/guias/optimizacion/',
               collapsed: true,
-//              items: [
-//                { text: 'A', link: '/' },
-//              ]
             },
             {
               text: 'Errores',
               link: '/guias/errores/',
               collapsed: true,
-//              items: [
-//                { text: 'A', link: '/' },
-//              ]
             }
           ]
       },
