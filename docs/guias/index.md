@@ -4,8 +4,9 @@ head:
   - - meta
     - name: og:description
       content: Un conjunto de guias y articulos hechos por y para la comunidad.
-    - name: description
-      content: Un conjunto de guias y articulos hechos por y para la comunidad.
+  - - meta
+    - name: og:title
+      content: Introducción del proyecto
 ---
 
 <div align=center>

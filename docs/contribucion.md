@@ -4,8 +4,9 @@ head:
   - - meta
     - name: og:description
       content: Contribución al proyecto
-    - name: description
-      content: Contribución al proyecto
+  - - meta
+    - name: og:title
+      content: Contribución - Doofy's Projects
 ---
 # ¿Cómo colaborar al proyecto?
 

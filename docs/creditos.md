@@ -4,8 +4,9 @@ head:
   - - meta
     - name: og:description
       content: Créditos del proyecto
-    - name: description
-      content: Créditos del proyecto
+  - - meta
+    - name: og:title
+      content: Creditos - Doofy's Projects
 ---
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'

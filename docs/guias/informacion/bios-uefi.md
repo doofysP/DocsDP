@@ -3,8 +3,9 @@ head:
   - - meta
     - name: og:description
       content: ¿Cómo sé que mi equipo cuenta con UEFI o Legacy (BIOS)?
-    - name: description
-      content: ¿Cómo sé que mi equipo cuenta con UEFI o Legacy (BIOS)?
+  - - meta
+    - name: og:title
+      content: UEFI o BIOS | Información
 ---
 
 # Tengo UEFI o BIOS

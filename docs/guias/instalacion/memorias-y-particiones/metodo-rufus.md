@@ -3,8 +3,9 @@ head:
   - - meta
     - name: og:description
       content: La manera tradicional para crear memorias USB listas con el sistema a instalar.
-    - name: description
-      content: La manera tradicional para crear memorias USB listas con el sistema a instalar.
+  - - meta
+    - name: og:title
+      content: ¿Cómo bootear una USB? | Instalación
 ---
 
 # ¿Cómo bootear una USB?

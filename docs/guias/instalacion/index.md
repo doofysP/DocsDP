@@ -3,8 +3,9 @@ head:
   - - meta
     - name: og:description
       content: Toda información útil para la práctica o conocimiento con respecto la instalación de sistemas u otros.
-    - name: description
-      content: Toda información útil para la práctica o conocimiento con respecto la instalación de sistemas u otros.
+  - - meta
+    - name: og:title
+      content: Guías | Instalación
 ---
 # Guías: Instalación
 
