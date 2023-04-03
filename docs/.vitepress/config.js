@@ -1,6 +1,5 @@
 export default {
   head: [
-    ["meta", { property: "og:title", content: "Guías - Doofy's Projects" }],
     ["meta", { property: "theme-color", content: "#4583df" }],
     ["meta", {
         property: "og:image",
