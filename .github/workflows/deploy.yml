@@ -7,6 +7,9 @@ on:
       - 'README.md'
       - 'LICENCE'
       - '.gitignore'
+      - '.github/PULL_REQUEST_TEMPLATE/**'
+      - '.github/ISSUE_TEMPLATE/**'
+      - '.github/workflows/pr-webhook.yml'
 
 jobs:
   deploy:
