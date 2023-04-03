@@ -17,7 +17,7 @@ Dentro del servidor de [Discord](https://discord.gg/doofy-s-projects-70404260760
 **¿Quieres contribuir al proyecto?** Ingresa al servidor y asesorate de esto.
 
 <div align="center">
-  <a href="https://discord.gg/2jJRNbyqMB" target="_blank"><img src="https://invidget.switchblade.xyz/2jJRNbyqMB?language=es"></a>
+  <a href="https://discord.gg/2jJRNbyqMB" target="_blank"><img src="https://invidget.switchblade.xyz/2jJRNbyqMB?language=es" alt="https://discord.gg/2jJRNbyqMB"></a>
 </div>
 
 ## Código de conducta
