@@ -14,7 +14,7 @@ Al igual que todos los grupos del proyecto, el soporte es totalmente abierto al 
 
 Dentro del servidor de [Discord](https://discord.gg/doofy-s-projects-704042607600205956) puedes comunicarte con cualquier miembro del equipo de Soporte o Moderación para que pueda ayudarte a entender del tema. No tienes por qué preocuparte por saber algún lenguaje de programación y lo que el entorno rodee este, para colaborar solo necesitas del intelecto y capacidad de desarrollar guías textuales.
 
-**¿Quieres contribuir al proyecto?** Ingresa al servidor y asesorate de esto.
+**¿Quieres contribuir al proyecto?** Ingresa al servidor e informate
 
 <div align="center">
   <a href="https://discord.gg/2jJRNbyqMB" target="_blank"><img src="https://invidget.switchblade.xyz/2jJRNbyqMB?language=es" alt="https://discord.gg/2jJRNbyqMB"></a>
