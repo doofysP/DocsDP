@@ -15,4 +15,5 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 <div align="center">
   <h2>Servidor de Doofy's Projects</h2>
   <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
+  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://discordapp.com/api/guilds/704042607600205956/widget.png?style=shield" alt="https://discord.gg/doofy-s-projects-704042607600205956"></a>
 </div>
