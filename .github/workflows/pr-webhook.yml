@@ -1,0 +1,18 @@
+name: 'New PR Notification'
+on:
+  pull_request: 
+    types: [opened, reopened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar notificacion
+        uses: stegzilla/discord-notify@v2 WEBHOOK
+        with:
+          webhook_url: ${{ secrets.WEBHOOK }}
+          title: Nueva Pull Request abierta.
+          message: "**${{ github.event.pull_request.title }}**\n**Creador:** ${{ github.event.pull_request.user.login }}\n${{ github.event.pull_request.html_url }}"
+          include_image: true
+          avatar_url: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+          username: GitHub PR
