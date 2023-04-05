@@ -5,7 +5,6 @@ labels: ["Bugs"]
 assignees:
   - DisoQ
 body:
-
   - type: dropdown
     id: tipoM
     attributes:
