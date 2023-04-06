@@ -39,7 +39,7 @@ Tenga en cuenta los siguientes requisitos previos a poder ejecutar el proyecto l
 ---
 
 ### Clonar e instalar
-- Clone el repositorio de GitHub con ayuda en su terminal
+- Clone el repositorio de GitHub con ayuda de su terminal
 ```bash
 git clone https://github.com/doofysP/GuiasDP.git
 ```
