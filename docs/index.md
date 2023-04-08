@@ -14,8 +14,8 @@ hero:
   text: Un conjunto de guias y articulos
   tagline: Hechos por y para la comunidad
   image:
-    dark: /DP.png
-    light: /DPdark.png
+    dark: /DP.svg
+    light: /DPdark.svg
     alt: Doofy's Projects
   actions:
     - theme: brand
