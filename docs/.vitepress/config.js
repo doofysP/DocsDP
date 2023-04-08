@@ -7,7 +7,7 @@ export default {
       },
     ],
     ["meta", { name: "twitter:card", content: "summary" }],
-    ["link", { rel: "icon", href: "/DP.png" }],
+    ["link", { rel: "icon", href: "/DP.svg" }],
   ],
   title: "Doofy's Projects",
   titleTemplate: ":title - Doofy's Projects",
