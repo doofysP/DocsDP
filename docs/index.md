@@ -10,9 +10,9 @@ head:
       content: Guías - Doofy's Projects
 
 hero:
-  name: Guías - Doofy's Projects
-  text: Un conjunto de guias y articulos
-  tagline: Hechos por y para la comunidad
+  name: Guías
+  text: Doofy's Projects
+  tagline: Un conjunto de guias y articulos hechos por y para la comunidad
   image:
     dark: /DP.svg
     light: /DPdark.svg
