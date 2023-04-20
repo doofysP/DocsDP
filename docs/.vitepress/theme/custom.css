@@ -1,8 +1,8 @@
 /* Colores */
 :root{
-  --vp-c-green: #4482e0;
-  --vp-c-green-light: #6ca2f3;
-  --vp-c-green-lighter: #87afeb;
-  --vp-c-green-dark: #2d7aec; 
-  --vp-c-green-darker: #124592;
+  --vp-c-brand: #4482e0;
+  --vp-c-brand-light: #6ca2f3;
+  --vp-c-brand-lighter: #87afeb;
+  --vp-c-brand-dark: #2d7aec; 
+  --vp-c-brand-darker: #124592;
 }
