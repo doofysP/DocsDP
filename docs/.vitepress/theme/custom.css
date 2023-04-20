@@ -6,15 +6,17 @@
   --vp-c-brand-dark: #2d7aec;
   --vp-c-brand-darker: #124592;
 
-  --vp-c-bg-soft: #f6f6f7;
-  --vp-c-bg-soft-up: #f9f9fa;
+  --vp-soft-bg: #f9f9fa48;
 }
 .dark {
-    --vp-c-bg-soft: #1d1d1d25;
-    --vp-c-bg-soft-up: #18181823;
+  --vp-soft-bg: #18181823;
 }
 
 :root {
   --vp-custom-block-tip-border: var(--vp-c-brand);
   --vp-custom-block-tip-text: var(--vp-c-brand);
+
+  --vp-custom-block-tip-bg: var(--vp-soft-bg);
+  --vp-custom-block-warning-bg: var(--vp-soft-bg);
+  --vp-custom-block-danger-bg: var(--vp-soft-bg);
 }
