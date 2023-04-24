@@ -1,3 +1,4 @@
+<!-- source: https://github.com/stackblitz/docs/tree/main/.vitepress/theme/components -->
 <script setup lang="ts">
 
 const props = defineProps<{
