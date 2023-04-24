@@ -27,28 +27,28 @@ export default {
       text: "Editar esta página en GitHub",
     },
     search: {
-      provider: 'local',
+      provider: "local",
       options: {
         locales: {
           root: {
             translations: {
               button: {
-                buttonText: 'Buscar',
-                buttonAriaLabel: 'Buscar documentos',
+                buttonText: "Buscar",
+                buttonAriaLabel: "Buscar documentos",
               },
               modal: {
-                noResultsText: 'No se han encontrado resultados',
-                resetButtonTitle: 'Borrar criterios de búsqueda',
+                noResultsText: "No se han encontrado resultados",
+                resetButtonTitle: "Borrar criterios de búsqueda",
                 footer: {
-                  selectText: 'Seleccione',
-                  navigateText: 'Ir a',
-                  closeText: 'Cerrar',
-                }
-              }
-            }
-          }
-        } 
-      }
+                  selectText: "Seleccione",
+                  navigateText: "Ir a",
+                  closeText: "Cerrar",
+                },
+              },
+            },
+          },
+        },
+      },
     },
     socialLinks: socials(),
     nav: nav(),
@@ -97,7 +97,7 @@ function socials() {
 }
 
 function nav() {
-  return [{ text: "Guías", link: "/guias/" }];
+  return [{ text: "Guías", link: "/guias/", activeMatch: "/guias/" }];
 }
 
 function siderbar() {
