@@ -97,7 +97,23 @@ function socials() {
 }
 
 function nav() {
-  return [{ text: "Guías", link: "/guias/", activeMatch: "/guias/" }];
+  return [
+    { text: "Guías", link: "/guias/", activeMatch: "/guias/" },
+    {
+      text: "Colaboración",
+      activeMatch: "/contribucion|/creditos",
+      items: [
+        {
+          text: "Contribuir",
+          link: "/contribucion",
+        },
+        {
+          text: "Creditos",
+          link: "/creditos",
+        },
+      ],
+    },
+  ];
 }
 
 function siderbar() {
