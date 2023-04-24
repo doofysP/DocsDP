@@ -1,5 +1,5 @@
 import DefaultTheme from "vitepress/theme";
-import "./custom.css";
+import "./styles/custom.css";
 
 export default {
   extends: DefaultTheme,
