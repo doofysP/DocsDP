@@ -10,7 +10,7 @@ const props = defineProps<{
 </script>
 
 <template>
-  <a class="link" :href="link" rel="noopener" target="_blank">
+  <a class="link" :href="link">
     <span class="text">
       <span class="title">{{ title }}</span>
       <span class="description">{{ description }}</span>
