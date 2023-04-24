@@ -7,13 +7,12 @@ head:
     - name: og:title
       content: Guías | Errores
 ---
+<script setup lang="ts">
+import Woaos from '@theme/components/categoria.vue';
+import { categoria0 } from './categorias.ts';
+</script>
+
 # Guías: Errores
 
-<div align=center>
-
-## Contenido
-| Categoria | Guía | Enlace |
-|:---------:|:----:|:------:|
-| | | |
-
-</div>
+Sin guías activas.
+<!--- <Woaos :links="categoria0" /> -->
