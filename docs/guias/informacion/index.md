@@ -7,13 +7,11 @@ head:
     - name: og:title
       content: Guías | Información
 ---
+<script setup lang="ts">
+import Woaos from '@theme/components/categoria.vue';
+import { categoria0 } from './categorias.ts';
+</script>
+
 # Guías: Información
 
-<div align=center>
-
-## Contenido
-| Categoria | Guía | Enlace |
-|:---------:|:----:|:------:|
-| `Sin categoria` | Tengo UEFI o BIOS | [Ingresar](/guias/informacion/bios-uefi) |
-
-</div>
+<Woaos :links="categoria0" />

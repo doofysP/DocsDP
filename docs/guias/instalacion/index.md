@@ -7,13 +7,13 @@ head:
     - name: og:title
       content: Guías | Instalación
 ---
+<script setup lang="ts">
+import Woaos from '@theme/components/categoria.vue';
+import { categoria0 } from './categorias.ts';
+</script>
+
 # Guías: Instalación
 
-<div align=center>
+### Memorias y particiones
 
-## Contenido
-| Categoria | Guía | Enlace |
-|:---------:|:----:|:------:|
-| **Memorias y particiones** | Metodo Rufus | [Ingresar](/guias/instalacion/memorias-y-particiones/metodo-rufus) |
-
-</div>
+<Woaos :links="categoria0" />
