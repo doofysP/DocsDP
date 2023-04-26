@@ -14,6 +14,9 @@ No se notifican:
 
 ---
 
+## [1.8](https://docs.dprojects.org/) Historial de cambios en página (26 Abr, 2023)
+**Descripción:** En la barra de navegación se añadió un hipervínculo al historial de cambios.
+
 ## [1.7](https://github.com/doofysp/GuiasDP) Propuestas de guías (26 Abr, 2023)
 **Descripción:** En el archivo [README](https://github.com/doofysP/GuiasDP/blob/main/README.md) principal se añaden las propuestas de guías a desarrollar.
 
