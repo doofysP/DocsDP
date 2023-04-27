@@ -138,6 +138,10 @@ function siderbar() {
                   text: "Metodo Rufus",
                   link: "/guias/instalacion/memorias-y-particiones/metodo-rufus",
                 },
+                {
+                  text: "Metodo Ventoy",
+                  link: "/guias/instalacion/memorias-y-particiones/metodo-ventoy",
+                },
               ],
             },
           ],
