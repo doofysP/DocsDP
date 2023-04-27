@@ -25,7 +25,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 
 ### Instalación:
 - [x] Metodo Rufus (Memorias y Particiones)
-- [ ] Metodo Ventoy (Memorias y particiones)
+- [x] Metodo Ventoy (Memorias y particiones)
 - [ ] Metodos poco conocidos (Memorias y particiones) [Alternativas a Ventoy y Rufus]
 - [ ] Controladores oficiales (Drivers) [Por componentes y para portatiles/AIO]
 - [ ] Controladores de terceros (Drivers)
