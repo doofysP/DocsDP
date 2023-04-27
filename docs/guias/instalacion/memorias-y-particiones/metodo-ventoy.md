@@ -13,7 +13,7 @@ head:
 **No se recomienda este método para MiniOS**, ya que, no funciona del todo bien con algunas versiones; sin embargo, puede funcionar.
 :::
 
-Ventoy es una herramienta que permite crear unidades de arranque, tal como lo haría [Rufus](./metodo-rufus), pero siendo capaz de almacenar más de un archivo de instalación como lo son `ISO`, `WIM`, `IMG`, `VHD`, o `EFI` dentro de la misma unidad.
+Ventoy es una herramienta que permite crear unidades de arranque, tal como lo haría [Rufus](./metodo-rufus), pero siendo capaz de almacenar más de un archivo de instalación, como lo son `ISO`, `WIM`, `IMG`, `VHD`, o `EFI` dentro de la misma unidad.
 
 
 ## Pre-requisitos
@@ -22,7 +22,7 @@ Ventoy es una herramienta que permite crear unidades de arranque, tal como lo ha
 - La aplicación de [Ventoy](https://www.ventoy.net/en/download.html)
 
 ::: warning Precaución
-Se recomienda que el dispositivo USB tenga mas de 8GB de capacidad.
+Se recomienda que el dispositivo USB tenga más de 8GB de capacidad.
 :::
 
 
@@ -39,12 +39,12 @@ Dentro de la aplicación se tiene en cuenta 3 pasos:
 2. **Option > Partition Style:** Es el [esquema de partición](/guias/informacion/bios-uefi) con el que cuenta la partición a la que se le practican las instalaciones.
 3. **Inicio:** Es el botón `Install` con el cual se prepara el USB.
 
-Es un proceso sencillo y muy entendible, y en caso de no haber presentado algun error en el proceso, ya estaría aplicado todo cambio que realice Ventoy quedando listo el dispositivo para su uso.
+Es un proceso sencillo y muy entendible, y en caso de no haber presentado algún error en el proceso, ya estaría aplicado todo cambio que realice Ventoy quedando listo el dispositivo para su uso.
 
 
 ## Funcionar de Ventoy
-No hay procesos extras una vez se hayan aplicados los cambios de Ventoy, ahora es una memoria que sirve como arranque de sistemas pero sigue estando vacia en su totalidad. 
+No hay procesos extras una vez se hayan aplicado los cambios de Ventoy, ahora es una memoria que sirve como arranque de sistemas, pero sigue estando vacía en su totalidad. 
 
-Simplemente se deben de copiar y pegar los archivos al almacenamiento de la memoria y sería todo lo que hay por hacer.
+Simplemente, se deben de copiar y pegar los archivos al almacenamiento de la memoria y sería todo lo que hay por hacer.
 
 ![VentoyAlmacenamiento](https://www.profesionalreview.com/wp-content/uploads/2022/06/Como-instalar-varios-sistemas-operativos-con-un-solo-USB-con-Ventoy-0.jpg)
