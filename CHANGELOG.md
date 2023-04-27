@@ -14,6 +14,9 @@ No se notifican:
 
 ---
 
+## [1.9](https://docs.dprojects.org/) Nueva guía (27 Abr, 2023)
+**Descripción:** Se añade la guía [Metodo Ventoy](https://docs.dprojects.org/guias/instalacion/memorias-y-particiones/metodo-ventoy)
+
 ## [1.8](https://docs.dprojects.org/) Historial de cambios en página (26 Abr, 2023)
 **Descripción:** En la barra de navegación se añadió un hipervínculo al historial de cambios.
 
