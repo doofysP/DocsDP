@@ -14,6 +14,9 @@ No se notifican:
 
 ---
 
+## [2.0](https://docs.dprojects.org/) Nueva guía (28 Abr, 2023)
+**Descripción:** Se añade la guía [Requisitos de Windows](https://docs.dprojects.org/guias/informacion/requisitos-windows)
+
 ## [1.9](https://docs.dprojects.org/) Nueva guía (27 Abr, 2023)
 **Descripción:** Se añade la guía [Metodo Ventoy](https://docs.dprojects.org/guias/instalacion/memorias-y-particiones/metodo-ventoy)
 

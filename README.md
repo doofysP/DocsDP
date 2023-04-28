@@ -34,7 +34,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 - [ ] Proceso de instalación en Windows (BIOS y Sistema)
 ### Información:
 - [x] Tengo BIOS o UEFI
-- [ ] Requisitos para Sistemas Operativos [Se explica cómo conocer los componentes propios]
+- [x] Requisitos para Sistemas Operativos [Se explica cómo conocer los componentes propios]
 - [ ] Activadores
 - [ ] Office [Información sobre las versiones Office (Diferencia entre versiones y requisitos)]
 ### Optimización:
