@@ -120,6 +120,7 @@ Procesador: [4+ Nucleos] 2.5Ghz+
 RAM: 6GB ++
 Notas:
   - Revisar la compatibilidad de tu equipo con este sistema.
+  - No cuenta con arquitectura de 32 bits.
 ```
 
 
