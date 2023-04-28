@@ -155,6 +155,10 @@ function siderbar() {
               text: "Conocer si soy BIOS o UEFI",
               link: "/guias/informacion/bios-uefi",
             },
+            {
+              text: "Requisitos de Windows",
+              link: "/guias/informacion/requisitos-windows",
+            },
           ],
         },
         {
