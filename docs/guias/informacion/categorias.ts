@@ -4,4 +4,9 @@ export const categoria0 = [
     description: '¿Cómo sé que mi equipo cuenta con UEFI o Legacy (BIOS)?',
     link: '/guias/informacion/bios-uefi',
   },
+  {
+    title: '🖥️ Requisitos de Windows',
+    description: 'Requisitos recomendados para Windows en sus diferentes versiones',
+    link: '/guias/informacion/requisitos-windows',
+  },
 ];
