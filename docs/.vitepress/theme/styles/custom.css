@@ -12,6 +12,7 @@
   --vp-soft-bg: #18181823;
 }
 
+/* Bloques */
 :root {
   --vp-custom-block-tip-border: var(--vp-c-brand);
   --vp-custom-block-tip-text: var(--vp-c-brand);
@@ -19,4 +20,11 @@
   --vp-custom-block-tip-bg: var(--vp-soft-bg);
   --vp-custom-block-warning-bg: var(--vp-soft-bg);
   --vp-custom-block-danger-bg: var(--vp-soft-bg);
+}
+
+/* Badges */
+:root {
+  --vp-badge-tip-border: var(--vp-c-brand);
+  --vp-badge-tip-text: var(--vp-c-brand);
+  --vp-badge-tip-bg: var(--vp-soft-bg);
 }
