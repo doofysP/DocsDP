@@ -23,28 +23,38 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
   <h2>Guías a desarrollar</h2>
 </div>
 
-### Instalación:
-- [x] Metodo Rufus (Memorias y Particiones)
-- [x] Metodo Ventoy (Memorias y particiones)
-- [ ] Metodos poco conocidos (Memorias y particiones) [Alternativas a Ventoy y Rufus]
-- [ ] Controladores oficiales (Drivers) [Por componentes y para portatiles/AIO]
-- [ ] Controladores de terceros (Drivers)
-- [ ] Establecer orden de arranque (BIOS y Sistema)
-- [ ] Boot Menu (BIOS y Sistema)
-- [ ] Proceso de instalación en Windows (BIOS y Sistema)
-### Información:
-- [x] Tengo BIOS o UEFI
-- [x] Requisitos para Sistemas Operativos [Se explica cómo conocer los componentes propios]
-- [ ] Activadores
-- [ ] Office [Información sobre las versiones Office (Diferencia entre versiones y requisitos)]
-### Optimización:
-- [ ] Ajustes básicos en Windows (Manuales)
-- [ ] Servicios en Windows (Manuales)
-- [ ] Programas Optimizadores (Asistidos) [/hellzerg/optimizer | ...]
-- [ ] Optimizadores por consola/bash (Asistidos)
-### Errores:
-- [ ] Sin internet al instalar
-- [ ] Impresora no funcional
-- [ ] Servicio de Busqueda
-- [ ] Falta de librerías y DLL
-- [ ] Problemas varios en MiniOS
+|         Instalación          |       Categoría        |        Estado      |
+|:----------------------------:|:----------------------:|:------------------:|
+| Metodo Rufus                 | Memorias y particiones | :white_check_mark: |
+| Metodo Ventoy                | Memorias y particiones | :white_check_mark: |
+| Metodos poco conocidos       | Memorias y particiones | :x:                |
+| Controladores oficiales      | Drivers                | :x:                |
+| Controladores de terceros    | Drivers                | :x:                |
+| Establecer orden de arranque | BIOS y Sistema         | :x:                |
+| Boot Menu                    | BIOS y Sistema         | :x:                |
+| Proceso de instalación en Windows | BIOS y Sistema    | :x:                |
+
+
+|             Información             |  Categoría  |        Estado      |
+|:-----------------------------------:|:-----------:|:------------------:|
+| Tengo BIOS o UEFI                   | -           | :white_check_mark: |
+| Requisitos para Sistemas Operativos | -           | :white_check_mark: |
+| Activadores                         | -           | :x:                |
+| Office                              | -           | :x:                |
+
+
+|         Optimización           |  Categoría  | Estado |
+|:------------------------------:|:-----------:|:------:|
+| Ajustes básicos en Windows     | Manuales    | :x:    |
+| Servicios en Windows           | Manuales    | :x:    |
+| Programas Optimizadores        | Asistidos   | :x:    |
+| Optimizadores por consola/bash | Asistidos   | :x:    |
+
+
+|           Errores          |  Categoría  | Estado |
+|:--------------------------:|:-----------:|:------:|
+| Sin internet al instalar   | -           | :x:    |
+| Impresora no funcional     | -           | :x:    |
+| Servicio de Busqueda       | -           | :x:    |
+| Falta de librerías y DLL   | -           | :x:    |
+| Problemas varios en MiniOS | -           | :x:    |
