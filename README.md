@@ -21,7 +21,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 
 <div align="center">
   <h2>Guías a desarrollar</h2>
-</div>
+
 
 |         Instalación          |       Categoría        |        Estado      |
 |:----------------------------:|:----------------------:|:------------------:|
@@ -58,3 +58,5 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 | Servicio de Busqueda       | -           | :x:    |
 | Falta de librerías y DLL   | -           | :x:    |
 | Problemas varios en MiniOS | -           | :x:    |
+
+</div>
