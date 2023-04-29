@@ -92,7 +92,7 @@ Uno de los más grandes lanzamientos por parte de Microsoft, y apuesta por la cu
 Inicialmente, el público de Windows 10 Enterprise fue dirigido al sector empresarial, ya que no contaba con aplicaciones de Microsoft que añadía al sistema como la tienda, algunos juegos, características, que a fin de cuentas no aportaban al entorno empresarial y era un peso que reducía, tanto al sistema como al rendimiento. Hoy por hoy se ha vuelto una edición ligera y útil para quien no utilice los servicios preinstalados de Microsoft que vienen por defecto.
 
 ```yml
-Procesador: [2+ Nucleos] 1.5Ghz +
+Procesador: [2+ Nucleos] 2.0Ghz ++
 RAM: 4GB +
 Notas:
   - Cuentan con ediciones LTSB y LTSC
