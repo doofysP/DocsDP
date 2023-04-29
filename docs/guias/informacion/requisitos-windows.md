@@ -108,7 +108,7 @@ Procesador: [4+ Nucleos] 2.5Ghz +
 RAM: 6/8GB +
 Notas:
   - La versión Home se dirige a equipos de hogar, reduce ciertas funcionalidades que trae Windows 10 en general.
-  - La versión Proffesional trae todas las caracteristicas, lo que en la medida de lo posible, puede llevar Windows 10.
+  - La versión Professional trae todas las caracteristicas, lo que en la medida de lo posible, puede llevar Windows 10.
   - La versión Workstation se dirige a servidores, pero su funcionalidad no se limita a ello; cuenta con una mejor gestión de procesos y un mejor rendimiento general para trabajos pesados.
 ```
 
