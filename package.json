@@ -2,7 +2,7 @@
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "sass": "^1.62.0",
-    "vitepress": "^1.0.0-alpha.73",
+    "vitepress": "^1.0.0-alpha.75",
     "vue": "^3.2.47"
   },
   "scripts": {
