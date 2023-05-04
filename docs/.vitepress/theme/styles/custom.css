@@ -1,3 +1,13 @@
+/* Fondo */
+:root{
+  --vp-c-bg: #e6edfa;
+  --vp-c-bg-alt: #d9e5fc;
+}
+.dark {
+  --vp-c-bg: #1e1e20;
+  --vp-c-bg-alt: #161618;
+}
+
 /* Colores */
 :root{
   --vp-c-brand: #4482e0;
