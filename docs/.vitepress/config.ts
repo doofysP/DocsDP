@@ -98,7 +98,7 @@ function socials() {
 
 function nav() {
   return [
-    { text: "Guías", link: "/guias/", activeMatch: "/guias/" }, 
+    { text: "Guías", link: "/guias/", activeMatch: "/guias/" },
     {
       text: "Colaboración",
       activeMatch: "/contribucion|/creditos",
@@ -113,7 +113,10 @@ function nav() {
         },
       ],
     },
-    { text: "Historial de cambios", link: "https://github.com/doofysP/GuiasDP/blob/main/CHANGELOG.md" },
+    {
+      text: "Historial de cambios",
+      link: "https://github.com/doofysP/GuiasDP/blob/main/CHANGELOG.md",
+    },
   ];
 }
 
@@ -158,6 +161,10 @@ function siderbar() {
             {
               text: "Requisitos de Windows",
               link: "/guias/informacion/requisitos-windows",
+            },
+            {
+              text: "Office",
+              link: "/guias/informacion/office",
             },
           ],
         },
