@@ -40,7 +40,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 | Tengo BIOS o UEFI                   | -           | :white_check_mark: |
 | Requisitos para Sistemas Operativos | -           | :white_check_mark: |
 | Activadores                         | -           | :x:                |
-| Office                              | -           | :x:                |
+| Office                              | -           | :white_check_mark: |
 
 
 |         Optimización           |  Categoría  | Estado |

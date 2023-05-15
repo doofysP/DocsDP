@@ -15,6 +15,10 @@ No se notifican:
 
 ---
 
+## [2.2](https://docs.dprojects.org/) Nueva guía (15 May, 2023)
+
+**Descripción:** Se añade la guía [Office](https://docs.dprojects.org/guias/informacion/office)
+
 ## [2.1](https://github.com/doofysp/GuiasDP) Tema claro (04 May, 2023)
 
 **Descripción:** El tema claro fue modificado. De un total claro a un azul claro.
