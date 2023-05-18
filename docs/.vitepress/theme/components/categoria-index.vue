@@ -2,6 +2,7 @@
 <script setup lang="ts">
 
 const props = defineProps<{
+  icon: string;
   title: string;
   description: string;
   link: string;
@@ -11,6 +12,7 @@ const props = defineProps<{
 
 <template>
   <a class="link" :href="link">
+    <img v-if="icon" alt="" :src="icon" class="icon" />
     <span class="text">
       <span class="title">{{ title }}</span>
       <span class="description">{{ description }}</span>
@@ -52,6 +54,14 @@ const props = defineProps<{
   flex: 1 1 auto;
   font-size: 14px;
   line-height: 20px;
+}
+
+.icon {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  object-position: center;
 }
 
 .title {
