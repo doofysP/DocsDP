@@ -44,7 +44,7 @@ El segundo paso es seleccionar el archivo `.iso` del sistema. Dentro de Rufus la
 </div>
 
 ### 3. Esquema de partición
-Este paso, mayormente, es seleccionado por el mismo archivo `.iso` que acabamos de seleccionar, sin embargo, eso no precisa algunas veces la opción que necesitamos. Esta sección de *Esquema de partición* nos permite especificar si contamos con UEFI o BIOS tradicional en nuestro equipo. Para conocer más sobre esta sección y qué debería seleccionar puedes dirigirte a la guía **¿Soy UEFI o BIOS?**.
+Este paso, mayormente, es seleccionado por el mismo archivo `.iso` que acabamos de seleccionar, sin embargo, eso no precisa algunas veces la opción que necesitamos. Esta sección de *Esquema de partición* nos permite especificar si contamos con UEFI o BIOS tradicional en nuestro equipo. Para conocer más sobre esta sección y qué debería seleccionar puedes dirigirte a la guía [**Conocer si soy BIOS o UEFI**](https://docs.dprojects.org/guias/informacion/bios-uefi).
 
 <div align=center>
 <img src="/assets/Instalacion/Rufus3.png" alt="Rufus3" width="400" />
