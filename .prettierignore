@@ -1,2 +1,5 @@
 # Ignorar markdown
 *.md
+
+# Ignorar Typescript
+docs/guias/**/categorias.ts
