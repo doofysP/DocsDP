@@ -8,8 +8,7 @@ export const categoria0 = [
   {
     icon: "/icons/info/2.svg",
     title: "Requisitos de Windows",
-    description:
-      "Requisitos recomendados para Windows en sus diferentes versiones",
+    description: "Requisitos recomendados para Windows en sus diferentes versiones",
     link: "/guias/informacion/requisitos-windows",
   },
   {
