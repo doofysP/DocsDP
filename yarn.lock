@@ -778,9 +778,9 @@
     "fsevents" "~2.3.2"
 
 "sass@*", "sass@^1.63.3":
-  "integrity" "sha512-ySdXN+DVpfwq49jG1+hmtDslYqpS7SkOR5GpF6o2bmb1RL/xS+wvPmegMvMywyfsmAV6p7TgwXYGrCZIFFbAHg=="
-  "resolved" "https://registry.npmjs.org/sass/-/sass-1.63.3.tgz"
-  "version" "1.63.3"
+  "integrity" "sha512-MJuxGMHzaOW7ipp+1KdELtqKbfAWbH7OLIdoSMnVe3EXPMTmxTmlaZDCTsgIpPCs3w99lLo9/zDKkOrJuT5byw=="
+  "resolved" "https://registry.npmjs.org/sass/-/sass-1.63.6.tgz"
+  "version" "1.63.6"
   dependencies:
     "chokidar" ">=3.0.0 <4.0.0"
     "immutable" "^4.0.0"
@@ -853,7 +853,7 @@
   optionalDependencies:
     "fsevents" "~2.3.2"
 
-"vitepress@^1.0.0-beta.1":
+"vitepress@^1.0.0-beta.2":
   "integrity" "sha512-DBXYjtYbm3W1IPPJ2TiCaK/XK+o/2XmL2+jslOGKm+txcbmG0kbeB+vadC5tCUZA9NdA+9Ywj3M4548c7t/SDg=="
   "resolved" "https://registry.npmjs.org/vitepress/-/vitepress-1.0.0-beta.2.tgz"
   "version" "1.0.0-beta.2"
