@@ -161,15 +161,10 @@
     "@docsearch/css" "3.5.1"
     algoliasearch "^4.0.0"
 
-"@esbuild/win32-x64@0.17.19":
-  version "0.17.19"
-  resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.17.19.tgz"
-  integrity sha512-lAhycmKnVOuRYNtRtatQR1LPQf2oYCkRGkSFnseDAKPl8lu5SOsK/e1sXe5a0Pc5kHIHe6P2I/ilntNv2xf3cA==
-
-"@esbuild/win32-x64@0.18.11":
-  version "0.18.11"
-  resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.11.tgz"
-  integrity sha512-rQI4cjLHd2hGsM1LqgDI7oOCYbQ6IBOVsX9ejuRMSze0GqXUG2ekwiKkiBU1pRGSeCqFFHxTrcEydB2Hyoz9CA==
+"@esbuild/win32-x64@0.18.20":
+  version "0.18.20"
+  resolved "https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.18.20.tgz"
+  integrity sha512-kTdfRcSiDfQca/y9QIkng02avJ+NCaQvrMejlsB3RRv5sE9rRoeBPISaZpKxHELzRxZyLvNts1P27W3wV+8geQ==
 
 "@jridgewell/sourcemap-codec@^1.4.13":
   version "1.4.15"
@@ -281,34 +276,34 @@
   resolved "https://registry.npmjs.org/@vue/shared/-/shared-3.3.4.tgz"
   integrity sha512-7OjdcV8vQ74eiz1TZLzZP4JwqM5fA94K6yntPS5Z25r9HDuGNzaGdgvwKYq6S+MxwF0TFRwe50fIR/MYnakdkQ==
 
-"@vueuse/core@^10.2.1", "@vueuse/core@10.2.1":
-  version "10.2.1"
-  resolved "https://registry.npmjs.org/@vueuse/core/-/core-10.2.1.tgz"
-  integrity sha512-c441bfMbkAwTNwVRHQ0zdYZNETK//P84rC01aP2Uy/aRFCiie9NE/k9KdIXbno0eDYP5NPUuWv0aA/I4Unr/7w==
+"@vueuse/core@^10.3.0", "@vueuse/core@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.npmjs.org/@vueuse/core/-/core-10.3.0.tgz"
+  integrity sha512-BEM5yxcFKb5btFjTSAFjTu5jmwoW66fyV9uJIP4wUXXU8aR5Hl44gndaaXp7dC5HSObmgbnR2RN+Un1p68Mf5Q==
   dependencies:
     "@types/web-bluetooth" "^0.0.17"
-    "@vueuse/metadata" "10.2.1"
-    "@vueuse/shared" "10.2.1"
+    "@vueuse/metadata" "10.3.0"
+    "@vueuse/shared" "10.3.0"
     vue-demi ">=0.14.5"
 
-"@vueuse/integrations@^10.2.1":
-  version "10.2.1"
-  resolved "https://registry.npmjs.org/@vueuse/integrations/-/integrations-10.2.1.tgz"
-  integrity sha512-FDP5lni+z9FjHE9H3xuvwSjoRV9U8jmDvJpmHPCBjUgPGYRynwb60eHWXCFJXLUtb4gSIHy0e+iaEbrKdalCkQ==
+"@vueuse/integrations@^10.3.0":
+  version "10.3.0"
+  resolved "https://registry.npmjs.org/@vueuse/integrations/-/integrations-10.3.0.tgz"
+  integrity sha512-Jgiv7oFyIgC6BxmDtiyG/fxyGysIds00YaY7sefwbhCZ2/tjEx1W/1WcsISSJPNI30in28+HC2J4uuU8184ekg==
   dependencies:
-    "@vueuse/core" "10.2.1"
-    "@vueuse/shared" "10.2.1"
+    "@vueuse/core" "10.3.0"
+    "@vueuse/shared" "10.3.0"
     vue-demi ">=0.14.5"
 
-"@vueuse/metadata@10.2.1":
-  version "10.2.1"
-  resolved "https://registry.npmjs.org/@vueuse/metadata/-/metadata-10.2.1.tgz"
-  integrity sha512-3Gt68mY/i6bQvFqx7cuGBzrCCQu17OBaGWS5JdwISpMsHnMKKjC2FeB5OAfMcCQ0oINfADP3i9A4PPRo0peHdQ==
+"@vueuse/metadata@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.npmjs.org/@vueuse/metadata/-/metadata-10.3.0.tgz"
+  integrity sha512-Ema3YhNOa4swDsV0V7CEY5JXvK19JI/o1szFO1iWxdFg3vhdFtCtSTP26PCvbUpnUtNHBY2wx5y3WDXND5Pvnw==
 
-"@vueuse/shared@10.2.1":
-  version "10.2.1"
-  resolved "https://registry.npmjs.org/@vueuse/shared/-/shared-10.2.1.tgz"
-  integrity sha512-QWHq2bSuGptkcxx4f4M/fBYC3Y8d3M2UYyLsyzoPgEoVzJURQ0oJeWXu79OiLlBb8gTKkqe4mO85T/sf39mmiw==
+"@vueuse/shared@10.3.0":
+  version "10.3.0"
+  resolved "https://registry.npmjs.org/@vueuse/shared/-/shared-10.3.0.tgz"
+  integrity sha512-kGqCTEuFPMK4+fNWy6dUOiYmxGcUbtznMwBZLC1PubidF4VZY05B+Oht7Jh7/6x4VOWGpvu3R37WHi81cKpiqg==
   dependencies:
     vue-demi ">=0.14.5"
 
@@ -432,61 +427,33 @@ email-addresses@^5.0.0:
   resolved "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
   integrity sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==
 
-esbuild@^0.17.5:
-  version "0.17.19"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.17.19.tgz"
-  integrity sha512-XQ0jAPFkK/u3LcVRcvVHQcTIqD6E2H1fvZMA5dQPSOWb3suUbWbfbRf94pjc0bNzRYLfIrDRQXr7X+LHIm5oHw==
+esbuild@^0.18.10:
+  version "0.18.20"
+  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.18.20.tgz"
+  integrity sha512-ceqxoedUrcayh7Y7ZX6NdbbDzGROiyVBgC4PriJThBKSVPWnnFHZAkfI1lJT8QFkOwH4qOS2SJkS4wvpGl8BpA==
   optionalDependencies:
-    "@esbuild/android-arm" "0.17.19"
-    "@esbuild/android-arm64" "0.17.19"
-    "@esbuild/android-x64" "0.17.19"
-    "@esbuild/darwin-arm64" "0.17.19"
-    "@esbuild/darwin-x64" "0.17.19"
-    "@esbuild/freebsd-arm64" "0.17.19"
-    "@esbuild/freebsd-x64" "0.17.19"
-    "@esbuild/linux-arm" "0.17.19"
-    "@esbuild/linux-arm64" "0.17.19"
-    "@esbuild/linux-ia32" "0.17.19"
-    "@esbuild/linux-loong64" "0.17.19"
-    "@esbuild/linux-mips64el" "0.17.19"
-    "@esbuild/linux-ppc64" "0.17.19"
-    "@esbuild/linux-riscv64" "0.17.19"
-    "@esbuild/linux-s390x" "0.17.19"
-    "@esbuild/linux-x64" "0.17.19"
-    "@esbuild/netbsd-x64" "0.17.19"
-    "@esbuild/openbsd-x64" "0.17.19"
-    "@esbuild/sunos-x64" "0.17.19"
-    "@esbuild/win32-arm64" "0.17.19"
-    "@esbuild/win32-ia32" "0.17.19"
-    "@esbuild/win32-x64" "0.17.19"
-
-esbuild@^0.18.6:
-  version "0.18.11"
-  resolved "https://registry.npmjs.org/esbuild/-/esbuild-0.18.11.tgz"
-  integrity sha512-i8u6mQF0JKJUlGR3OdFLKldJQMMs8OqM9Cc3UCi9XXziJ9WERM5bfkHaEAy0YAvPRMgqSW55W7xYn84XtEFTtA==
-  optionalDependencies:
-    "@esbuild/android-arm" "0.18.11"
-    "@esbuild/android-arm64" "0.18.11"
-    "@esbuild/android-x64" "0.18.11"
-    "@esbuild/darwin-arm64" "0.18.11"
-    "@esbuild/darwin-x64" "0.18.11"
-    "@esbuild/freebsd-arm64" "0.18.11"
-    "@esbuild/freebsd-x64" "0.18.11"
-    "@esbuild/linux-arm" "0.18.11"
-    "@esbuild/linux-arm64" "0.18.11"
-    "@esbuild/linux-ia32" "0.18.11"
-    "@esbuild/linux-loong64" "0.18.11"
-    "@esbuild/linux-mips64el" "0.18.11"
-    "@esbuild/linux-ppc64" "0.18.11"
-    "@esbuild/linux-riscv64" "0.18.11"
-    "@esbuild/linux-s390x" "0.18.11"
-    "@esbuild/linux-x64" "0.18.11"
-    "@esbuild/netbsd-x64" "0.18.11"
-    "@esbuild/openbsd-x64" "0.18.11"
-    "@esbuild/sunos-x64" "0.18.11"
-    "@esbuild/win32-arm64" "0.18.11"
-    "@esbuild/win32-ia32" "0.18.11"
-    "@esbuild/win32-x64" "0.18.11"
+    "@esbuild/android-arm" "0.18.20"
+    "@esbuild/android-arm64" "0.18.20"
+    "@esbuild/android-x64" "0.18.20"
+    "@esbuild/darwin-arm64" "0.18.20"
+    "@esbuild/darwin-x64" "0.18.20"
+    "@esbuild/freebsd-arm64" "0.18.20"
+    "@esbuild/freebsd-x64" "0.18.20"
+    "@esbuild/linux-arm" "0.18.20"
+    "@esbuild/linux-arm64" "0.18.20"
+    "@esbuild/linux-ia32" "0.18.20"
+    "@esbuild/linux-loong64" "0.18.20"
+    "@esbuild/linux-mips64el" "0.18.20"
+    "@esbuild/linux-ppc64" "0.18.20"
+    "@esbuild/linux-riscv64" "0.18.20"
+    "@esbuild/linux-s390x" "0.18.20"
+    "@esbuild/linux-x64" "0.18.20"
+    "@esbuild/netbsd-x64" "0.18.20"
+    "@esbuild/openbsd-x64" "0.18.20"
+    "@esbuild/sunos-x64" "0.18.20"
+    "@esbuild/win32-arm64" "0.18.20"
+    "@esbuild/win32-ia32" "0.18.20"
+    "@esbuild/win32-x64" "0.18.20"
 
 escape-string-regexp@^1.0.2:
   version "1.0.5"
@@ -536,12 +503,12 @@ find-up@^4.0.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-focus-trap@*, focus-trap@^7.4.3:
-  version "7.4.3"
-  resolved "https://registry.npmjs.org/focus-trap/-/focus-trap-7.4.3.tgz"
-  integrity sha512-BgSSbK4GPnS2VbtZ50VtOv1Sti6DIkj3+LkVjiWMNjLeAp1SH1UlLx3ULu/DCu4vq5R4/uvTm+zrvsMsuYmGLg==
+focus-trap@*, focus-trap@^7.5.2:
+  version "7.5.2"
+  resolved "https://registry.npmjs.org/focus-trap/-/focus-trap-7.5.2.tgz"
+  integrity sha512-p6vGNNWLDGwJCiEjkSK6oERj/hEyI9ITsSwIUICBoKLlWiTWXJRfQibCwcoi50rTZdbi87qDtUlMCmQwsGSgPw==
   dependencies:
-    tabbable "^6.1.2"
+    tabbable "^6.2.0"
 
 fs-extra@^11.1.1:
   version "11.1.1"
@@ -784,10 +751,10 @@ pkg-dir@^4.1.0:
   dependencies:
     find-up "^4.0.0"
 
-postcss@^8.1.10, postcss@^8.4.23, postcss@^8.4.24:
-  version "8.4.24"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.24.tgz"
-  integrity sha512-M0RzbcI0sO/XJNucsGjvWU9ERWxb/ytp1w6dKtxTKgixdtQDq4rmx/g8W1hnaheq9jgwL/oyEdH5Bc4WwJKMqg==
+postcss@^8.1.10, postcss@^8.4.27:
+  version "8.4.28"
+  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.28.tgz"
+  integrity sha512-Z7V5j0cq8oEKyejIKfpD8b4eBy9cwW2JWPk0+fB1HOAMsfHbnAXLLS+PfVWlzMSLQaWttKDt607I0XHmpE67Vw==
   dependencies:
     nanoid "^3.3.6"
     picocolors "^1.0.0"
@@ -805,14 +772,14 @@ readdirp@~3.6.0:
   dependencies:
     picomatch "^2.2.1"
 
-rollup@^3.21.0, rollup@^3.25.2:
-  version "3.26.0"
-  resolved "https://registry.npmjs.org/rollup/-/rollup-3.26.0.tgz"
-  integrity sha512-YzJH0eunH2hr3knvF3i6IkLO/jTjAEwU4HoMUbQl4//Tnl3ou0e7P5SjxdDr8HQJdeUJShlbEHXrrnEHy1l7Yg==
+rollup@^3.27.1:
+  version "3.28.0"
+  resolved "https://registry.npmjs.org/rollup/-/rollup-3.28.0.tgz"
+  integrity sha512-d7zhvo1OUY2SXSM6pfNjgD5+d0Nz87CUp4mt8l/GgVP3oBsPwzNvSzyu1me6BSG9JIgWNTVcafIXBIyM8yQ3yw==
   optionalDependencies:
     fsevents "~2.3.2"
 
-sass@*, sass@^1.63.6:
+sass@*, sass@^1.65.1:
   version "1.65.1"
   resolved "https://registry.npmjs.org/sass/-/sass-1.65.1.tgz"
   integrity sha512-9DINwtHmA41SEd36eVPQ9BJKpn7eKDQmUHmpI0y5Zv2Rcorrh0zS+cFrt050hdNbmmCNKTW3hV5mWfuegNRsEA==
@@ -853,7 +820,7 @@ strip-outer@^1.0.1:
   dependencies:
     escape-string-regexp "^1.0.2"
 
-tabbable@^6.1.2:
+tabbable@^6.2.0:
   version "6.2.0"
   resolved "https://registry.npmjs.org/tabbable/-/tabbable-6.2.0.tgz"
   integrity sha512-Cat63mxsVJlzYvN51JmVXIgNoUokrIaT2zLclCXjRd8boZ0004U4KCs/sToJ75C6sdlByWxpYnb5Boif1VSFew==
@@ -877,45 +844,34 @@ universalify@^2.0.0:
   resolved "https://registry.npmjs.org/universalify/-/universalify-2.0.0.tgz"
   integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
-vite@^4.0.0:
-  version "4.3.9"
-  resolved "https://registry.npmjs.org/vite/-/vite-4.3.9.tgz"
-  integrity sha512-qsTNZjO9NoJNW7KnOrgYwczm0WctJ8m/yqYAMAK9Lxt4SoySUfS5S8ia9K7JHpa3KEeMfyF8LoJ3c5NeBJy6pg==
+vite@^4.0.0, vite@^4.4.9:
+  version "4.4.9"
+  resolved "https://registry.npmjs.org/vite/-/vite-4.4.9.tgz"
+  integrity sha512-2mbUn2LlUmNASWwSCNSJ/EG2HuSRTnVNaydp6vMCm5VIqJsjMfbIWtbH2kDuwUVW5mMUKKZvGPX/rqeqVvv1XA==
   dependencies:
-    esbuild "^0.17.5"
-    postcss "^8.4.23"
-    rollup "^3.21.0"
-  optionalDependencies:
-    fsevents "~2.3.2"
-
-vite@4.4.0-beta.3:
-  version "4.4.0-beta.3"
-  resolved "https://registry.npmjs.org/vite/-/vite-4.4.0-beta.3.tgz"
-  integrity sha512-IC/thYTvArOFRJ4qvvudnu4KKZOVc+gduS3I9OfC5SbP/Rf4kkP7z6Of2QpKeOSVqwIK24khW6VOUmVD/0yzSQ==
-  dependencies:
-    esbuild "^0.18.6"
-    postcss "^8.4.24"
-    rollup "^3.25.2"
+    esbuild "^0.18.10"
+    postcss "^8.4.27"
+    rollup "^3.27.1"
   optionalDependencies:
     fsevents "~2.3.2"
 
 vitepress@^1.0.0-beta.4:
-  version "1.0.0-beta.4"
-  resolved "https://registry.npmjs.org/vitepress/-/vitepress-1.0.0-beta.4.tgz"
-  integrity sha512-dpWnpdUFrKU9spTAHaxfkYauFAaIokQwr/1Kx2ipGvHDij47ebuHXF/O7gD+5xnpwV3eUb8Z2zPVZn1kbGu9lQ==
+  version "1.0.0-rc.4"
+  resolved "https://registry.npmjs.org/vitepress/-/vitepress-1.0.0-rc.4.tgz"
+  integrity sha512-JCQ89Bm6ECUTnyzyas3JENo00UDJeK8q1SUQyJYou+4Yz5BKEc/F3O21cu++DnUT2zXc0kvQ2Aj4BZCc/nioXQ==
   dependencies:
     "@docsearch/css" "^3.5.1"
     "@docsearch/js" "^3.5.1"
     "@vitejs/plugin-vue" "^4.2.3"
     "@vue/devtools-api" "^6.5.0"
-    "@vueuse/core" "^10.2.1"
-    "@vueuse/integrations" "^10.2.1"
+    "@vueuse/core" "^10.3.0"
+    "@vueuse/integrations" "^10.3.0"
     body-scroll-lock "4.0.0-beta.0"
-    focus-trap "^7.4.3"
+    focus-trap "^7.5.2"
     mark.js "8.11.1"
     minisearch "^6.1.0"
     shiki "^0.14.3"
-    vite "4.4.0-beta.3"
+    vite "^4.4.9"
     vue "^3.3.4"
 
 vscode-oniguruma@^1.7.0:
