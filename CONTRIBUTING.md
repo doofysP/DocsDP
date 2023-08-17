@@ -32,7 +32,7 @@ El manejo del Pull Request se verá regulado por conductas y prácticas básicas
 
 ## Instalación local del proyecto
 Tenga en cuenta los siguientes requisitos previos a poder ejecutar el proyecto localmente:
-  - Una versión de [`Node.js`](https://nodejs.org) 16 o superior
+  - Una versión de [`Node.js`](https://nodejs.org) 18 o superior
   - Terminal para poder ejecutar los comandos de Vitepress, también sirven las IDEs como [VSCode](https://code.visualstudio.com/)
   - Versiones recientes de [`git`](https://git-scm.com/)
 
