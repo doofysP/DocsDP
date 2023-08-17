@@ -50,6 +50,14 @@ export default {
         },
       },
     },
+    notFound: {
+      title: "No se encontró esta dirección",
+      quote:
+        "Esta dirección no te está llevando a nada, asegúrate de digitarla bien o reportarlo si es un error",
+      linkLabel: "Regresar",
+      linkText: "Regresar",
+      code: "69 + 335",
+    },
     socialLinks: socials(),
     nav: nav(),
     sidebar: siderbar(),
