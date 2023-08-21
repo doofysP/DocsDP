@@ -12,3 +12,12 @@ export const categoria0 = [
     link: "/guias/instalacion/memorias-y-particiones/metodo-ventoy",
   },
 ];
+
+export const categoria1 = [
+  {
+    icon: "/icons/inst/3.svg",
+    title: "Controladores de terceros",
+    description: "Controladores de terceros ofrecidos por aplicaciones no oficiales.",
+    link: "/guias/instalacion/drivers/terceros",
+  }
+];

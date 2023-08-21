@@ -10,6 +10,7 @@ head:
 <script setup lang="ts">
 import Woaos from '@theme/components/categoria.vue';
 import { categoria0 } from './categorias.ts';
+import { categoria1 } from './categorias.ts';
 </script>
 
 # Guías: Instalación
@@ -17,3 +18,6 @@ import { categoria0 } from './categorias.ts';
 ### Memorias y particiones
 
 <Woaos :links="categoria0" />
+
+### Drivers
+<Woaos :links="categoria1" />
