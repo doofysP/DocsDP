@@ -15,6 +15,10 @@ No se notifican:
 
 ---
 
+## [2.3](https://docs.dprojects.org/) Nueva guía (21 Ago, 2023)
+
+**Descripción:** Se añade la guía [Controladores de terceros](https://docs.dprojects.org/guias/instalacion/drivers/terceros)
+
 ## [2.2](https://docs.dprojects.org/) Nueva guía (15 May, 2023)
 
 **Descripción:** Se añade la guía [Office](https://docs.dprojects.org/guias/informacion/office)
