@@ -29,7 +29,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 | Metodo Ventoy                | Memorias y particiones | :white_check_mark: |
 | Metodos poco conocidos       | Memorias y particiones | :x:                |
 | Controladores oficiales      | Drivers                | :x:                |
-| Controladores de terceros    | Drivers                | :x:                |
+| Controladores de terceros    | Drivers                | :white_check_mark: |
 | Establecer orden de arranque | BIOS y Sistema         | :x:                |
 | Boot Menu                    | BIOS y Sistema         | :x:                |
 | Proceso de instalación en Windows | BIOS y Sistema    | :x:                |
