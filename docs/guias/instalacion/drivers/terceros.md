@@ -2,7 +2,7 @@
 head:
   - - meta
     - name: og:description
-      content: La manera tradicional para crear memorias USB listas con el sistema a instalar.
+      content: Controladores de terceros ofrecidos por aplicaciones no oficiales.
   - - meta
     - name: og:title
       content: Controladores de terceros | Drivers
