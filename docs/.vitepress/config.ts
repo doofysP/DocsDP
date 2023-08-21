@@ -155,6 +155,15 @@ function siderbar() {
                 },
               ],
             },
+            {
+              text: "Drivers",
+              items: [
+                {
+                  text: "Controladores de terceros",
+                  link: "/guias/instalacion/drivers/terceros",
+                },
+              ],
+            },
           ],
         },
         {
