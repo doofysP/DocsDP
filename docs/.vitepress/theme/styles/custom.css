@@ -10,6 +10,12 @@
 
 /* Colores */
 :root{
+
+  --vp-c-indigo-1: #4482e0;
+  --vp-c-indigo-2: #124592;
+  --vp-c-indigo-3: #2d7aec;
+  --vp-c-indigo-soft: rgba(100, 108, 255, 0.14);
+
   --vp-c-brand: #4482e0;
   --vp-c-brand-light: #6ca2f3;
   --vp-c-brand-lighter: #87afeb;
