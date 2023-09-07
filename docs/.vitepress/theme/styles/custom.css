@@ -1,1 +1,16 @@
 /* WIP */
+/* https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css */
+
+:root {
+  --vp-c-indigo-1: #3b70c0;
+  --vp-c-indigo-2: #4581db; 
+  --vp-c-indigo-3: #3b70c0;
+  --vp-c-indigo-soft: rgba(102, 162, 252, 0.122);
+}
+
+.dark {
+  --vp-c-indigo-1: #3b70c0;
+  --vp-c-indigo-2: #4581db;
+  --vp-c-indigo-3: #3b70c0;
+  --vp-c-indigo-soft: rgba(102, 162, 252, 0.122);
+}
