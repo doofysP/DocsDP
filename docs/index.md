@@ -7,10 +7,10 @@ head:
       content: Un conjunto de guias y articulos hechos por y para la comunidad.
   - - meta
     - name: og:title
-      content: Guías - Doofy's Projects
+      content: Documentación - Doofy's Projects
 
 hero:
-  name: Guías
+  name: Documentación
   text: Doofy's Projects
   tagline: Un conjunto de guias y articulos hechos por y para la comunidad
   image:

@@ -1,14 +1,14 @@
 <div align="center">
-  <a href="https://github.com/doofysP/GuiasDP/actions">
-  <img src="https://github.com/doofysP/GuiasDP/actions/workflows/deploy.yml/badge.svg" alt="Deploy GH Actions"></img>
+  <a href="https://github.com/doofysP/DocsDP/actions">
+  <img src="https://github.com/doofysP/DocsDP/actions/workflows/deploy.yml/badge.svg" alt="Deploy GH Actions"></img>
   </a>
 </div>
 
 <div align="center">
-  <h1>Guías - Doofy's Projects</h1>
+  <h1>Documentación - Doofy's Projects</h1>
 
 
-Este proyecto, independiente del proyecto en general y nacido directamente del servidor de Discord, busca la manera de almacenar las guías proporcionadas por los miembros del servidor para la resolución de problemas, información y recursos varios.
+Este proyecto, independiente del proyecto en general y nacido directamente del servidor de Discord, busca la manera de almacenar las guías útiles para la resolución de problemas, información y recursos varios.
 </div>
 
 
@@ -20,7 +20,7 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 ---
 
 <div align="center">
-  <h2>Guías a desarrollar</h2>
+  <h2>Guías a desarrollar (Descontinuado)</h2>
 
 
 |         Instalación          |       Categoría        |        Estado      |
@@ -60,3 +60,8 @@ Este proyecto, independiente del proyecto en general y nacido directamente del s
 | Problemas varios en MiniOS | -           | :x:    |
 
 </div>
+
+---
+
+<div align="center">
+  <h2>Guías a desarrollar (Nueva edición - En progreso)</h2>
