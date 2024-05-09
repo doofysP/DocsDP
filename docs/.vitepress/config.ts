@@ -3,7 +3,7 @@ export default {
   title: "Doofy's Projects",
   titleTemplate: ":title - Doofy's Projects",
   appearance: "dark",
-  description: "Guías independientes.",
+  description: "Documentación de Doofy's Projects.",
   cleanUrls: true,
   base: "/",
   lang: "es-ES",
