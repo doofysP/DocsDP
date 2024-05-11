@@ -8,14 +8,13 @@ export default {
   base: "/",
   lang: "es-ES",
   themeConfig: {
-    siteTitle: "Doofy's Projects",
+    // siteTitle: "Doofy's Projects",
     darkModeSwitchLabel: "Apariencia",
     sidebarMenuLabel: "Menu",
     returnToTopLabel: "Ir arriba",
     outlineTitle: "Tabla de contenido",
     logo: {
       src: "/logo.png",
-      alt: "Logo",
     },
     docFooter: {
       prev: "Página anterior",
