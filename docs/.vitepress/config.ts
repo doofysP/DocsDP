@@ -20,7 +20,7 @@ export default {
       prev: "Página anterior",
       next: "Pagína siguiente",
     },
-    outline: [2, 5],
+    outline: [1, 4],
     editLink: {
       pattern: "https://github.com/doofysp/GuiasDP/edit/main/docs/:path",
       text: "Editar esta página en GitHub",
