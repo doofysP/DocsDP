@@ -156,7 +156,7 @@ function siderbar() {
             },
             {
               text: "Drivers",
-              link: "/guias/instalacion/drivers",
+              link: "/guias/instalacion/drivers/",
               items: [
                 {
                   text: "Controladores oficiales",
