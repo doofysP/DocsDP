@@ -44,7 +44,7 @@ No podemos hacernos responsables de los problemas que se causen por descargar Dr
 
 | Herramienta | Enlace |
 | --- | --- |
-| Aplicación | https://sdi-tool.org/ |
+| Aplicación | https://www.snappy-driver-installer.org/ |
 
 ## Aplicaciones no recomendadas
 
