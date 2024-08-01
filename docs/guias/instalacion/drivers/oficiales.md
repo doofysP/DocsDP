@@ -20,6 +20,12 @@ Los controladores oficiales son aquellos que brindan directamente los fabricante
 
 En primera instancia, debes de conseguirlos directamente desde la página de los fabricantes. En Google puedes usar palabras claves como "`Drivers Tarjeta Gráfica XXXXXXX`" para poder conseguirlas de manera más sencilla, ya que normalmente llevará a la página del fabricante.
 
+Tambien, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la busqueda de drivers adecuados.
+
+<div align="center"> 
+  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
+</div>
+
 ### Intel
 
 | Herramienta | Enlace |

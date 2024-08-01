@@ -12,6 +12,13 @@ head:
 Siempre, ya que, estos **tienen soporte por sus fabricantes** y **no se corre el riesgo** de que entre algún archivo corrupto al equipo.
 :::
 
+Tambien, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la busqueda de drivers adecuados.
+
+<div align="center"> 
+  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
+</div>
+
+
 # Drivers de terceros
 
 Cuando nos referimos a Drivers de terceros, nos referimos a aquellos que no encontramos dentro de la página del fabricante, pero sí en páginas y/o repositorios diferentes o en aplicaciones desarrolladas por terceros para poder instalarlas más fácilmente.
