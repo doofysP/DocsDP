@@ -16,8 +16,20 @@ export const categoria0 = [
 export const categoria1 = [
   {
     icon: "/icons/inst/3.svg",
-    title: "Controladores de terceros",
-    description: "Controladores de terceros ofrecidos por aplicaciones no oficiales.",
+    title: "Información sobre Drivers",
+    description: "¿Qué debemos de saber de los controladores de mi equipo?",
+    link: "/guias/instalacion/drivers/",
+  },
+  {
+    icon: "/icons/inst/4.svg",
+    title: "Drivers oficiales",
+    description: "Busqueda de Drivers ofrecidos por los fabricantes oficiales..",
+    link: "/guias/instalacion/drivers/oficiales",
+  },
+  {
+    icon: "/icons/inst/5.svg",
+    title: "Drivers de terceros",
+    description: "Busqueda de Drivers ofrecidos por aplicaciones de terceros.",
     link: "/guias/instalacion/drivers/terceros",
   }
 ];
