@@ -17,4 +17,10 @@ export const categoria0 = [
     description: "Conoce las diferentes versiones de Office y sus diferencias.",
     link: "/guias/informacion/office",
   },
+  {
+    icon: "/icons/info/4.svg",
+    title: "Versiones de MiniOS",
+    description: "Revisa las diferencias entre las versiones de MiniOS",
+    link: "/guias/informacion/versiones-minios",
+  },
 ];

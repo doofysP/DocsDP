@@ -187,6 +187,10 @@ function siderbar() {
               text: "Office",
               link: "/guias/informacion/office",
             },
+            {
+              text: "Versiones de MiniOS",
+              link: "/guias/informacion/versiones-minios",
+            },
           ],
         },
         {
