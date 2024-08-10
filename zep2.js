@@ -1,3 +1,8 @@
+// USO: node zep2
+//
+// Una vez ejecutado zep1 y obtener un JSON valido, este codigo transformará su contenido dentro de una
+// función valida para la lectura de Zeppelin y pueda así, utilizarse dentro del servidor con el comando !docs
+
 const fs = require('fs');
 const path = require('path');
 

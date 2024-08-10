@@ -1,3 +1,8 @@
+// USO: node zep1
+//
+// Se ejecuta con el fin de obtener un JSON ordenado con la metadata de cada pagina compilada, de manera que
+// se obtenga una palabra clave y una ruta que queda guardada en un archivo llamado metadata_zep.json
+
 const fs = require('fs');
 const path = require('path');
 
