@@ -32,7 +32,7 @@ for (const rutaInicial in rutasAgrupadas) {
     rutasAgrupadas[rutaInicial].forEach(clave => {
         outputContent += `                      \`!docs ${clave}\`\n`;
     });
-    outputContent += `                    inline: true\n\n`;
+    outputContent += `                    inline: false\n\n`;
 }
 
 fs.writeFileSync(outputPath, outputContent.trim(), 'utf-8');
