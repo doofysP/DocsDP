@@ -45,7 +45,9 @@ function generarCondicionales(data) {
 
 const condicionales = generarCondicionales(jsonData);
 
-const resultado = `!tag docs {concat("https://docs.dprojects.org/guias/", ${condicionales})}`;
+const resultado = `!tag docs {concat("https://docs.dprojects.org/guias/", ${condicionales}, " 
+
+-# Para mas información usa \`!docs ayuda\`")}`;
 
 fs.writeFileSync(outputPath, resultado, 'utf-8');
 
