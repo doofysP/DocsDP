@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: Versiones de MiniOS | Información
+  - - meta
+    - name: zep
+      content: versiones
 ---
 
 # Diferencias entre versiones de MiniOS

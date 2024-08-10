@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: Requisitos para Windows | Información
+  - - meta
+    - name: zep
+      content: requisitos
 ---
 
 # Requisitos para Windows

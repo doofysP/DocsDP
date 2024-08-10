@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: Controladores de terceros | Drivers
+  - - meta
+    - name: zep
+      content: drivers terceros
 ---
 
 ::: danger SIEMPRE SE RECOMIENDA DRIVERS OFICIALES

@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: ¿Cómo bootear una USB? | Instalación
+  - - meta
+    - name: zep
+      content: rufus
 ---
 
 # ¿Cómo bootear una USB?

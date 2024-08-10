@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: Controladores oficiales | Drivers
+  - - meta
+    - name: zep
+      content: drivers oficiales
 ---
 
 ::: tip SIEMPRE SE RECOMIENDA DRIVERS OFICIALES

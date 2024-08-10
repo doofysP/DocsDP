@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: Ventoy | Instalación
+  - - meta
+    - name: zep
+      content: ventoy
 ---
 
 # ¿Cómo usar Ventoy?

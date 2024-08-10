@@ -6,6 +6,9 @@ head:
   - - meta
     - name: og:title
       content: UEFI o BIOS | Información
+  - - meta
+    - name: zep
+      content: bios-uefi
 ---
 
 # Tengo UEFI o BIOS
