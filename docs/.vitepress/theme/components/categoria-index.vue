@@ -29,7 +29,7 @@ const props = defineProps<{
   align-items: center;
   min-height: 64px;
   border-radius: 8px;
-  border: solid 2px #4482e02c;
+  border: solid 2px #a8a8a82c;
   padding: 10px 24px 10px 18px;
   gap: 16px;
   text-align: left;
