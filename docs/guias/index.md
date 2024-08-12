@@ -1,12 +1,13 @@
 ---
 editLink: false
+title: Introducción
 head:
   - - meta
     - name: og:description
       content: Un conjunto de guias y articulos hechos por y para la comunidad.
   - - meta
     - name: og:title
-      content: Introducción del proyecto
+      content: Introducción
 ---
 
 <div align=center>
