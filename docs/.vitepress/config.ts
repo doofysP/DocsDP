@@ -65,7 +65,7 @@ export default {
 
 function metadata() {
   return [
-    ["meta", { property: "theme-color", content: "#4583df" }],
+    ["meta", { property: "theme-color", content: "#fa522e" }],
     [
       "meta",
       {
