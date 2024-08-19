@@ -55,7 +55,7 @@ export default {
         "Esta dirección no te está llevando a nada, asegúrate de digitarla bien o reportarlo si es un error",
       linkLabel: "Regresar",
       linkText: "Regresar",
-      code: "69 + 335",
+      code: "404",
     },
     socialLinks: socials(),
     nav: nav(),
