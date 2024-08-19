@@ -108,17 +108,8 @@ function nav() {
     { text: "Guías", link: "/guias/", activeMatch: "/guias/" },
     {
       text: "Colaboración",
-      activeMatch: "/contribucion|/creditos",
-      items: [
-        {
-          text: "Contribuir",
-          link: "/contribucion",
-        },
-        {
-          text: "Creditos",
-          link: "/creditos",
-        },
-      ],
+      activeMatch: "/colaboracion",
+      link: "/colaboracion"
     },
     {
       text: "Historial de cambios",
@@ -208,8 +199,7 @@ function siderbar() {
     {
       text: "",
       items: [
-        { text: "Contribución", link: "/contribucion" },
-        { text: "Creditos", link: "/creditos" },
+        { text: "Colaboración", link: "/colaboracion" }
       ],
     },
   ];
