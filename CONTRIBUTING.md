@@ -8,12 +8,9 @@ Estamos agradecidos por el interés al proyecto y que puedas contribuir a este. 
 ## Lineamientos en Solicitudes de Cambio
 El manejo del Pull Request se verá regulado por conductas y prácticas básicas.
 
-![Crear Pull Request](https://cdn.discordapp.com/attachments/1017537991813632111/1092494792476348528/firefox_yiMJNEJ4ik.png)
-
 - Al realizar la solicitud, asegúrese que pueda ejecutarse localmente **sin conflicto** alguno, revisando la paridad de:
   - Versión de Vitepress (Consúltela en el archivo [`package.json`](package.json))
   - Cambios recientes (Consulte los [cambios en la rama principal](https://github.com/doofysP/GuiasDP/commits/main))
-  - Como extra, informado dentro del [servidor de contribución](https://discord.gg/2jJRNbyqMB)
 
 - Asegúrese que el título del `commit` a enviar contenga la información puntual del cambio.
 
@@ -26,7 +23,6 @@ El manejo del Pull Request se verá regulado por conductas y prácticas básicas
 - No modifique los archivos externos a la documentación, es decir, archivos como lo son:
   - [`README.md`](README.md), [`CONTRIBUTING.md`](CONTRIBUTING.md), [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) y [`LICENCE`](LICENCE)
   - [Directorio `.github`](.github)
-    - En caso de presentar sugerencias pertinentes en los archivos ya mencionados, propóngalos dentro del [servidor de contribución](https://discord.gg/2jJRNbyqMB).
 
 - No utilice este medio para la búsqueda de publicidad no deseada o informada.
 
