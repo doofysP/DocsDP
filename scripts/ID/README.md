@@ -12,7 +12,7 @@ https://youtu.be/C2eLvgUmthE?si=5F_yVn-rmMo0nocj
 
 ## Descarga
 
-Puedes elegir el archivo `.exe` de este repositorio llamado `Hardware ID Doofys Projects.exe` o descargarlo directamente aquí
+Puedes elegir el archivo `.exe` de este repositorio llamado `Hardware ID Doofys Projects.exe` o descargarlo directamente [aquí](https://github.com/doofysP/DocsDP/raw/refs/heads/main/scripts/ID/HardwareID-DoofysProjects.exe)
 
 ## Codigo fuente
 
