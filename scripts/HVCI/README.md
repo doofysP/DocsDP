@@ -10,7 +10,7 @@ La herramienta permite activar o desactivar manualmente el protocolo **HVCI** (H
 
 ## Descarga
 
-Puedes elegir el archivo `.bat` de este repositorio llamado `HVCI-Control-MiniOS.bat` o descargarlo directamente [aquí](https://github.com/doofysP/DocsDP/raw/refs/heads/main/scripts/HVCI/HVCI-Control-MiniOS.bat)
+Puedes elegir el archivo `.bat` de este repositorio llamado `HVCI-Control-MiniOS.bat` y usar el boton de descargar.
 
 ## Codigo fuente
 
