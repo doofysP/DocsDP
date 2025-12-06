@@ -8,7 +8,7 @@
   <h1>Documentación - Doofy's Projects</h1>
 
 
-Estas Guías, han nacido directamente en la comunidad de Discord, busca la manera de almacenar el conocimiento y experiencias útiles para la resolución de problemas, información y recursos varios.
+Estas guías han nacido directamente en la comunidad de Discord, busca la manera de almacenar el conocimiento y experiencias útiles para la resolución de problemas, información y recursos varios.
 </div>
 
 
