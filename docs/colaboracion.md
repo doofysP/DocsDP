@@ -26,18 +26,9 @@ const members = [
     name: 'DisoQ',
     title: 'Desarrollador',
     links: [
-      { icon: 'github', link: 'https://github.com/DisoQ' },
+      { icon: 'github', link: 'https://github.com/DisoQ' }
     ]
-  },
-  {
-    avatar: 'https://avatars.githubusercontent.com/u/31357533?v=4',
-    name: 'CarmeloCampos',
-    title: 'Colaborador externo',
-    links: [
-      { icon: 'github', link: 'https://github.com/CarmeloCampos' },
-      { icon: 'twitter', link: 'https://twitter.com/CarmeloAlone' }
-    ]
-  },
+  }
 ]
 </script>
 
@@ -47,13 +38,14 @@ Al igual que todos los grupos del proyecto, el soporte es totalmente abierto al 
 
 Dentro del servidor de [Discord](https://discord.gg/doofy-s-projects-704042607600205956) puedes comunicarte con cualquier miembro del equipo de Soporte o Moderación para que pueda ayudarte a entender del tema. No tienes por qué preocuparte por saber algún lenguaje de programación y lo que el entorno rodee este, para colaborar solo necesitas del intelecto y capacidad de escritura adecuada.
 
-**¿Quieres contribuir al proyecto?** Ingresa al servidor e informate
+**¿Quieres contribuir al proyecto?** Ingresa al servidor e infórmate
 
 <div align="center"> 
-  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
+  <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank">
+    <img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es">
+  </a>
 </div>
 
-## Creditos
+## Créditos
 
 <VPTeamMembers size="small" :members="members" />
-
