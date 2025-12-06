@@ -42,6 +42,7 @@ No podemos hacernos responsables de los problemas que se causen por descargar Dr
 | --- | --- |
 | 3DP Net | https://www.3dpchip.com/3dpchip/3dp/net_down_es.php | 
 | 3DP Chip | https://www.3dpchip.com/3dp/chip_down_lite.php?pl=es_es |
+| Tutorial | https://youtu.be/YSxd89kl77I |
 
 ### Snappy Drivers
 
