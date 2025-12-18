@@ -1,40 +1,57 @@
 name: Deploy
 
 on:
-  workflow_dispatch: {}
-  push:
-    paths:
-    - 'docs/**'
-    - 'package-lock.json'
-    - 'package.json'
-    - 'yarn.lock'
+    workflow_dispatch: {}
+    push:
+      paths:
+      - 'docs/**'
+      - 'package-lock.json'
+      - 'package.json'
+      - 'yarn.lock'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v6
         with:
-          node-version: 16
+          node-version: 24
           cache: npm
-      - run: npm ci
-      - name: Build
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Install dependencies
+        run: npm ci
+      - name: Build with VitePress
         run: npm run build
       - name: Make CNAME
         run: echo docs.dprojects.org > docs/.vitepress/dist/CNAME
-      - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v1
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
-      - name: Deploy
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
