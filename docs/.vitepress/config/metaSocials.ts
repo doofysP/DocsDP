@@ -1,6 +1,6 @@
 export function metadata() {
     return [
-      ["meta", { property: "theme-color", content: "#3094f2" }],
+      ["meta", { property: "theme-color", content: "#2F93F1" }],
       [
         "meta",
         {

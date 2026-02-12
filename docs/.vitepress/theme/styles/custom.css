@@ -4,10 +4,17 @@
   --vp-c-gray-3: #ebebef;
   --vp-c-gray-soft: rgba(142, 150, 170, 0.14);
 
+<<<<<<< HEAD
   --vp-c-indigo-1: #2575c0;
   --vp-c-indigo-2: #2f81ce;
   --vp-c-indigo-3: #3094f2;
   --vp-c-indigo-soft: #7abfff5d;
+=======
+  --vp-c-indigo-1: #fe613e;
+  --vp-c-indigo-2: #9f351d;
+  --vp-c-indigo-3: #fe481f;
+  --vp-c-indigo-soft: #2F93F1;
+>>>>>>> 45ff1d3728c7b042e02f4db5c773cf43fef168b8
 
   --vp-c-purple-1: #6f42c1;
   --vp-c-purple-2: #7e4cc9;
