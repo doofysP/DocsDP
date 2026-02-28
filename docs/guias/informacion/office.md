@@ -11,7 +11,7 @@ head:
       content: office
 ---
 
-# Paqutería Office
+# Paquetería Office
 
 Office es una suite de aplicaciones de productividad desarrollada por Microsoft. Está diseñada para ayudar a las personas a realizar tareas relacionadas con el trabajo, la educación y la creación de contenido
 
@@ -47,7 +47,7 @@ Los mayores avances se presentaron en su cinta de opciones, sin duda, una mayor 
 ### Office 2016, 2019 y 2021
 Las versiones de Office de los años 2016, 2019 y 2021 tuvieron cambios, más que importantes, de visión a sus usuarios, sus necesidades y preocupaciones varias que fueron existiendo con el pasar de los años junto a la evolución del internet que ahora es base como trabajo, estudio y demás trabajos de colaboración en tiempo real.
 
-![Office 201691](/assets/Informacion/office/2019.png)
+![Office 2016, 2019 y 2021](/assets/Informacion/office/2019.png)
 
 Sus cambios se encaminaron más en mejorar exponencialmente los servicios en la nube integrados desde ediciones pasados, así mismo, la mejora en rendimiento y seguridad que fueron gran cambio de versiones como la 2019, por último, enfocándose en sectores domésticos y aquellas PYMES hubo cambios respecto a la accesibilidad y plantillas y formatos posibles de aplicar desde un primer instante.
 
@@ -63,7 +63,7 @@ Aunque varía entre sus versiones, cuenta con ciertas constantes como se explica
 ### Office Home / Student / Business
 Es la edición más corriente, y en cierta medida, limitada de todas las ediciones. Esta versión Home es la que se dirige al paquete básico necesario para hogares, Student que se dirige a estudiantes con algunas características de productividad y Business que amplía un poco sus novedades para los negocios, posible con Outlook o Access entre sus cambios particulares.
 
-### Office Proffesional
+### Office Professional
 Es la edición que cuenta con un mayor catálogo de servicios y productos base, pues, busca contar con toda la funcionalidad que Office y Microsoft pueda ofrecer. A diferencia de la edición 365, esta cuenta con casi toda la capacidad posible de aplicaciones del paquete Ofimático de Microsoft, sin embargo, carece de servicios en la nube.
 
 ### Office 365 / Microsoft 365

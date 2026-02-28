@@ -15,7 +15,7 @@ head:
 Siempre, ya que, estos **tienen soporte por sus fabricantes** y **no se corre el riesgo** de que entre algún archivo corrupto al equipo.
 :::
 
-Tambien, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la busqueda de drivers adecuados.
+También, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la busqueda de drivers adecuados.
 
 <div align="center"> 
   <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
@@ -28,7 +28,7 @@ Cuando nos referimos a Drivers de terceros, nos referimos a aquellos que no enco
 
 La funcionalidad de estas páginas o aplicaciones facilita la búsqueda de los Drivers, pero se corre el riesgo de que aplicaciones indeseadas también entren en nuestro sistema (por la naturaleza de estas aplicaciones que cuentan con patrocinios por detrás, puede llegar a suceder eso). También existen otros riesgos como la instalación de Drivers con versiones anteriores que puedan afectar a la funcionalidad y seguridad del equipo, la mala detección de Hardware que cause la instalación de Drivers incorrectos, entre otros riesgos.
 
-## ¿Cuales podemos usar?
+## ¿Cuáles podemos usar?
 
 **Aunque no lo recomendamos al 100%** y pueda significar un riesgo, muchas veces se vuelve necesaria la búsqueda en estos medios al no encontrarlos en medios oficiales, ya sea por descontinuación del producto o la falta de archivo digital visible en las páginas.
 

@@ -18,7 +18,7 @@ DProjects se ha enfocado en modificar diferentes versiones de Windows para lanza
 ## Arquitectura y otros
 
 ### 32bits y 64bits
-Oficialmente en Windows, así como en el desarrollo de aplicaciones y sistemas, se separan por arquitecturas, como lo son 32bits (o también x86) y 64bis (o también x64). En resumen, es la manera en como se encuentra fabricado el procesador del equipo y cómo soporta el uso de la RAM.
+Oficialmente en Windows, así como en el desarrollo de aplicaciones y sistemas, se separan por arquitecturas, como lo son 32 bits (o también x86) y 64 bits (o también x64). En resumen, es la manera en como se encuentra fabricado el procesador del equipo y cómo soporta el uso de la RAM.
 
 - **32 bits** soporta únicamente 4GB de RAM, es ideal para quienes tienen solamente 4GB o menos, ya que el procesador se comporta adecuadamente a la memoria, sin desbordar de más el uso de la RAM intentando brindar el mejor rendimiento posible.
 - **64 bits** soporta más de 4GB de RAM, por ende, si tienes más de 4GB es recomendable usarlo, puesto que, el procesador podrá ocuparla totalmente, a diferencia de 32bits que se limitará a ello.
@@ -42,7 +42,7 @@ Cuando se refiere a alguna de las dos, es el modelo de instalación que se usar�
 | Windows 11 LTSC |LTSC 24H2 |  MiniOS11 LTSC |
 
 
-### LSTC y LTSB
+### LTSC y LTSB
 Hay que entender que, tanto LTSC y LTSB son lo mismo y forman parte del mismo ecosistema; sin embargo, fueron desarrollados en diferentes momentos. LTSB hace referencia al modelo de sistema que brinda un soporte extendido, que elimina gran parte de contenido y aplicaciones de Microsoft para enfocarse en empresas (sin embargo, no está totalmente dirigido a ellos, también lo está para todos). Por otro lado, LTSC es lo mismo; sin embargo, Microsoft se decantó en unificar el concepto, mejorarlo y seguirle dando desarrollo activo.
 
 - `LTSB` es entonces una versión recortada de Windows, eliminando aplicaciones y funciones mayormente innecesarias y que generan carga al sistema. Actualmente, no se volvió a desarrollar y se dio paso a seguirla desarrollando bajo el nombre LTSC.

@@ -45,7 +45,7 @@ Dentro de la aplicación se tiene en cuenta 3 pasos:
 Es un proceso sencillo y muy entendible, y en caso de no haber presentado algún error en el proceso, ya estaría aplicado todo cambio que realice Ventoy quedando listo el dispositivo para su uso.
 
 
-## Funcionar de Ventoy
+## Funcionamiento de Ventoy
 No hay procesos extras una vez se hayan aplicado los cambios de Ventoy, ahora es una memoria que sirve como arranque de sistemas, pero sigue estando vacía en su totalidad. 
 
 Simplemente, se deben de copiar y pegar los archivos al almacenamiento de la memoria y sería todo lo que hay por hacer.

@@ -1,13 +1,23 @@
-:root {
-  --vp-c-gray-1: #dddde3;
-  --vp-c-gray-2: #e4e4e9;
-  --vp-c-gray-3: #ebebef;
-  --vp-c-gray-soft: rgba(142, 150, 170, 0.14);
+/**
+ * Paleta: 0d1318 (fondo oscuro) | cacfdb (gris claro/texto) | 3094f2 (acento azul)
+ */
 
-  --vp-c-indigo-1: #2575c0;
-  --vp-c-indigo-2: #2f81ce;
+/* -------------------------------------------------------------------------- */
+/* Modo claro */
+/* -------------------------------------------------------------------------- */
+
+:root {
+  /* Grises derivados de cacfdb y 0d1318 */
+  --vp-c-gray-1: #b4b9c4;
+  --vp-c-gray-2: #9ca3b0;
+  --vp-c-gray-3: #7d8594;
+  --vp-c-gray-soft: rgba(13, 19, 24, 0.06);
+
+  /* Brand: 3094f2 y variaciones */
+  --vp-c-indigo-1: #1e7ad8;
+  --vp-c-indigo-2: #2885e8;
   --vp-c-indigo-3: #3094f2;
-  --vp-c-indigo-soft: #7abfff5d;
+  --vp-c-indigo-soft: rgba(48, 148, 242, 0.14);
 
   --vp-c-purple-1: #6f42c1;
   --vp-c-purple-2: #7e4cc9;
@@ -29,19 +39,35 @@
   --vp-c-red-3: #e0575b;
   --vp-c-red-soft: rgba(244, 63, 94, 0.14);
 
-  --vp-c-sponsor: #db2777;
+  --vp-c-sponsor: #3094f2;
 }
 
-.dark {
-  --vp-c-gray-1: #515c67;
-  --vp-c-gray-2: #414853;
-  --vp-c-gray-3: #32363f;
-  --vp-c-gray-soft: rgba(101, 117, 133, 0.16);
+/* Fondos y texto modo claro */
+:root {
+  --vp-c-bg: #f6f7f9;
+  --vp-c-bg-alt: #eef0f3;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-bg-soft: rgba(13, 19, 24, 0.04);
+  --vp-c-divider: rgba(13, 19, 24, 0.08);
+  --vp-c-text-1: #0d1318;
+  --vp-c-text-2: #3d4550;
+  --vp-c-text-3: #5c6572;
+}
 
-  --vp-c-indigo-1: #2575c0;
-  --vp-c-indigo-2: #2f81ce;
+/* -------------------------------------------------------------------------- */
+/* Modo oscuro (paleta principal) */
+/* -------------------------------------------------------------------------- */
+
+.dark {
+  --vp-c-gray-1: #6b7280;
+  --vp-c-gray-2: #5c6572;
+  --vp-c-gray-3: #4b5563;
+  --vp-c-gray-soft: rgba(202, 207, 219, 0.08);
+
+  --vp-c-indigo-1: #5aa8f7;
+  --vp-c-indigo-2: #3d9ef4;
   --vp-c-indigo-3: #3094f2;
-  --vp-c-indigo-soft: #7abfff5d;
+  --vp-c-indigo-soft: rgba(48, 148, 242, 0.2);
 
   --vp-c-purple-1: #c8abfa;
   --vp-c-purple-2: #a879e6;
@@ -64,11 +90,20 @@
   --vp-c-red-soft: rgba(244, 63, 94, 0.16);
 }
 
+.dark {
+  --vp-c-bg: #0d1318;
+  --vp-c-bg-alt: #131a21;
+  --vp-c-bg-elv: #1a222c;
+  --vp-c-bg-soft: rgba(202, 207, 219, 0.06);
+  --vp-c-divider: rgba(202, 207, 219, 0.1);
+  --vp-c-text-1: #cacfdb;
+  --vp-c-text-2: #9ca3af;
+  --vp-c-text-3: #6b7280;
+}
 
-
-/**
- * Component: Base
- * -------------------------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+/* Component: Base */
+/* -------------------------------------------------------------------------- */
 
 :root {
   --vp-c-default-1: var(--vp-c-gray-1);
@@ -97,34 +132,51 @@
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
 
-/**
- * Component: Button
- * -------------------------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+/* Component: Button */
+/* -------------------------------------------------------------------------- */
 
 :root {
   --vp-button-brand-border: transparent;
-  --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand-3);
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-bg: #3094f2;
   --vp-button-brand-hover-border: transparent;
-  --vp-button-brand-hover-text: var(--vp-c-white);
-  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: #2885e8;
   --vp-button-brand-active-border: transparent;
-  --vp-button-brand-active-text: var(--vp-c-white);
-  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: #1e7ad8;
 }
 
-/**
- * Component: Home
- * -------------------------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+/* Component: Home / Hero */
+/* -------------------------------------------------------------------------- */
 
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
     #3094f2 30%,
-    #1e8df5
+    #5aa8f7 100%
   );
+  --vp-home-hero-image-background-image: radial-gradient(
+    ellipse 80% 50% at 50% -20%,
+    rgba(48, 148, 242, 0.25),
+    transparent
+  );
+}
 
+.dark {
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #5aa8f7 20%,
+    #3094f2 70%
+  );
+  --vp-home-hero-image-background-image: radial-gradient(
+    ellipse 80% 50% at 50% -20%,
+    rgba(48, 148, 242, 0.18),
+    transparent
+  );
 }
 
 @media (min-width: 640px) {
@@ -139,13 +191,96 @@
   }
 }
 
-/**
- * Component: Custom Block
- * -------------------------------------------------------------------------- */
+/* -------------------------------------------------------------------------- */
+/* Nav y sidebar */
+/* -------------------------------------------------------------------------- */
+
+.dark {
+  --vp-nav-bg: rgba(13, 19, 24, 0.8);
+  --vp-sidebar-bg: #0d1318;
+}
+
+:root {
+  --vp-nav-bg: rgba(246, 247, 249, 0.8);
+  --vp-sidebar-bg: #f6f7f9;
+}
+
+/* -------------------------------------------------------------------------- */
+/* Links y código */
+/* -------------------------------------------------------------------------- */
+
+:root {
+  --vp-c-brand-1: var(--vp-c-indigo-1);
+  --vp-c-brand-2: var(--vp-c-indigo-2);
+  --vp-c-brand-3: var(--vp-c-indigo-3);
+}
+
+.dark .vp-doc a {
+  color: #5aa8f7;
+}
+
+.dark .vp-doc a:hover {
+  color: #3094f2;
+}
+
+:root .vp-doc a {
+  color: #1e7ad8;
+}
+
+:root .vp-doc a:hover {
+  color: #3094f2;
+}
+
+/* Bloques de código inline y código */
+.dark .vp-doc div[class*='language-'] {
+  background-color: #131a21;
+  border: 1px solid rgba(202, 207, 219, 0.08);
+}
+
+:root .vp-doc div[class*='language-'] {
+  background-color: #131a21;
+  border: 1px solid rgba(13, 19, 24, 0.08);
+}
+
+/* -------------------------------------------------------------------------- */
+/* Custom blocks (tip, warning, danger) */
+/* -------------------------------------------------------------------------- */
 
 :root {
   --vp-custom-block-tip-border: transparent;
   --vp-custom-block-tip-text: var(--vp-c-text-1);
   --vp-custom-block-tip-bg: var(--vp-c-tip-soft);
   --vp-custom-block-tip-code-bg: var(--vp-c-tip-soft);
+}
+
+/* -------------------------------------------------------------------------- */
+/* Detalles de pulido */
+/* -------------------------------------------------------------------------- */
+
+/* Bordes suaves en cards y bloques */
+.vp-doc div[class*='language-'] {
+  border-radius: 8px;
+}
+
+.VPDoc .container .content .vp-doc blockquote {
+  border-left-color: #3094f2;
+  border-radius: 0 6px 6px 0;
+}
+
+/* Sidebar activo */
+.dark .VPNavBar .link.active,
+.dark .VPSidebarItem.is-link.active .link {
+  color: #5aa8f7;
+}
+
+:root .VPNavBar .link.active,
+:root .VPSidebarItem.is-link.active .link {
+  color: #3094f2;
+}
+
+/* Iconos de enlaces en tarjetas de equipo: mismo tamaño */
+.VPTeamMembers .links a svg {
+  width: 20px !important;
+  height: 20px !important;
+  flex-shrink: 0;
 }

@@ -32,7 +32,7 @@ Generalmente, el más usado y práctico para conocer los componentes.
 
 2. <Badge type="tip" text="Información de DirectX" />
 Es capaz de discriminar los componentes del procesamiento, memoria y adaptadores de pantalla (gráficos del equipo).
-  - <Badge type="info" text="Diagnostico DirectX" /> Tenemos que abrir la herramienta de **Ejecutar** con `Win` + `R` y escribir `dxdiag`, esto abrirá la ***Herramienta de diagnóstica de DirectX***.
+  - <Badge type="info" text="Diagnóstico DirectX" /> Tenemos que abrir la herramienta de **Ejecutar** con `Win` + `R` y escribir `dxdiag`, esto abrirá la ***Herramienta de diagnóstico de DirectX***.
 
 3. <Badge type="tip" text="Administrador de Tareas" />
 Una herramienta que se utiliza bastante y, sin embargo, se nos olvida que cuenta con información del sistema.
@@ -47,7 +47,7 @@ Con elementos propios del sistema Windows podemos conocer más que el nombre y p
 ### Aplicaciones de terceros
 ::: details Ver información
 1. <Badge type="tip" text="AIDA64" />
-Está en el menú extendido. Unicamente soporta equipos x64
+Está en el menú extendido. Únicamente soporta equipos x64
   - <Badge type="info" text="AIDA64" /> Una vez tengamos la aplicación podemos abrirla y explorar sus categorías, de relevancia podemos ver ***Equipo*** y ***Placa base***.
 
 2. <Badge type="tip" text="CPU/GPU-Z" />

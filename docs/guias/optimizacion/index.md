@@ -14,5 +14,4 @@ import { categoria0 } from './categorias.ts';
 
 # Documentación: Optimización
 
-Sin guías activas.
-<!--- <Woaos :links="categoria0" /> -->
+Por el momento no hay guías publicadas en esta categoría. Si tienes técnicas o saberes que quieras compartir, puedes [colaborar](/colaboracion) con la documentación.

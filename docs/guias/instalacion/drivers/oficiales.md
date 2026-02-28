@@ -19,11 +19,11 @@ Siempre, ya que, estos **tienen soporte por sus fabricantes** y **no se corre el
 
 Los controladores oficiales son aquellos que brindan directamente los fabricantes de los componentes. Estos pueden venir en físico, como lo puede ser con CDs o memorias USB (no es tan común, pero hay equipos que sí lo hacen); Y mediante la página oficial de los fabricantes.
 
-## ¿Donde puedo conseguir Drivers oficiales?
+## ¿Dónde puedo conseguir drivers oficiales?
 
 En primera instancia, debes de conseguirlos directamente desde la página de los fabricantes. En Google puedes usar palabras claves como "`Drivers Tarjeta Gráfica XXXXXXX`" para poder conseguirlas de manera más sencilla, ya que normalmente llevará a la página del fabricante.
 
-Tambien, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la busqueda de drivers adecuados.
+También, recuerda que en el servidor de soporte de Doofy's Projects podemos ayudarte con la búsqueda de drivers adecuados.
 
 <div align="center"> 
   <a href="https://discord.gg/doofy-s-projects-704042607600205956" target="_blank"><img src="https://invidget.switchblade.xyz/doofy-s-projects-704042607600205956/?language=es"></a>
@@ -43,7 +43,7 @@ Tambien, recuerda que en el servidor de soporte de Doofy's Projects podemos ayud
 | AMD Auto-Detect and Install Tool | https://www.amd.com/es/resources/support-articles/faqs/gpu-131.html |
 | Busqueda manual de controladores | https://www.amd.com/es/support/download/drivers.html | 
 
-### NVidia
+### NVIDIA
 
 | Herramienta | Enlace |
 | --- | --- |

@@ -23,11 +23,11 @@ export default {
     },
     docFooter: {
       prev: "Página anterior",
-      next: "Pagína siguiente",
+      next: "Página siguiente",
     },
     outline: [1, 4],
     editLink: {
-      pattern: "https://github.com/doofysp/GuiasDP/edit/main/docs/:path",
+      pattern: "https://github.com/doofysP/DocsDP/edit/main/docs/:path",
       text: "Editar esta página en GitHub",
     },
     search: {

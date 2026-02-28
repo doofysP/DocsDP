@@ -25,7 +25,7 @@ hero:
       link: /guias/
     - theme: alt
       text: Colaborar
-      link: /contribucion
+      link: /colaboracion
 
 features:
   - icon: 📰

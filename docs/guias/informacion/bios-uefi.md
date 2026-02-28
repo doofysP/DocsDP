@@ -30,12 +30,12 @@ Desde Windows, contamos con herramientas propias para determinar qué tipo de te
 
 ![msinfo32.exe](/assets/Informacion/msinfo.png)
 
-En su valor puede aparecer `Heredado` o `UEFI`; Heredado hace referencia a que la instalación del sistema fue hecha bajo un modo Legacy (BIOS), caso contrato en caso de aparecer en su valor como UEFI, de primeras entendemos que la instalación fue hecha bajo este modo.
+En su valor puede aparecer `Heredado` o `UEFI`; Heredado hace referencia a que la instalación del sistema fue hecha bajo un modo Legacy (BIOS), caso contrario en caso de aparecer en su valor como UEFI, de primeras entendemos que la instalación fue hecha bajo este modo.
 
 ## Método 2: Administrador de discos
 El recurso que lleva desde bastantes ediciones dentro de Windows, que permite gestionar de una manera más avanzada las particiones del sistema, también nos ayuda a reconocer bajo qué tecnología fue instalado el sistema.
 
-:::details Mira aquí como abrir el Administrador de discos
+::: details Mira aquí como abrir el Administrador de discos
 **Ejecutar:**
   1. `Win` + `R`
   2. Escribir dentro `diskmgmt.msc`
@@ -70,4 +70,4 @@ Para empezar debemos de abrir la consola del sistema, es decir, `CMD` o `Powersh
 
 ![diskpart](/assets/Informacion/diskpart.png)
 
-Como se indicó previamente, el conocer el esquema de partición permite asumir qué tipo de tecnología se utiliza; cuando el disco donde esté instalado el sistema tenga un `*` en la última casilla **GPT** significa que utiliza UEFI, de lo contrario al **no llevar un** `*` se puede asumir que es BIOS.
+Como se indicó previamente, el conocer el esquema de partición permite asumir qué tipo de tecnología se utiliza; cuando el disco donde esté instalado el sistema tenga un `*` en la última casilla **GPT** significa que utiliza UEFI, de lo contrario al **no llevar** `*` se puede asumir que es BIOS.

@@ -14,5 +14,4 @@ import { categoria0 } from './categorias.ts';
 
 # Documentación: Errores
 
-Sin guías activas.
-<!--- <Woaos :links="categoria0" /> -->
+Por el momento no hay guías publicadas en esta categoría. Si conoces soluciones a errores habituales y quieres compartirlas, puedes [colaborar](/colaboracion) con la documentación.

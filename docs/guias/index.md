@@ -4,7 +4,7 @@ title: Introducción
 head:
   - - meta
     - name: og:description
-      content: Un conjunto de guias y articulos hechos para la comunidad.
+      content: Un conjunto de guías y artículos hechos para la comunidad.
   - - meta
     - name: og:title
       content: Introducción
