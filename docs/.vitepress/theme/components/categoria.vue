@@ -14,7 +14,7 @@ defineProps<{ links: any[] }>();
 </template>
 
 <style scoped lang="scss">
-@import '../styles/vars';
+@use '../styles/vars';
 
 .grid {
   display: grid;

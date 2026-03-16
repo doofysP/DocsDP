@@ -21,7 +21,7 @@ const props = defineProps<{
 </template>
 
 <style scoped lang="scss">
-@import '../styles/vars';
+@use '../styles/vars';
 
 .link {
   display: flex;
