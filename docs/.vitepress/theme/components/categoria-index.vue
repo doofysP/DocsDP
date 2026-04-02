@@ -29,19 +29,21 @@ const props = defineProps<{
   align-items: center;
   min-height: 64px;
   border-radius: 8px;
-  border: solid 2px #a8a8a82c;
+  border: 1px solid rgba(36, 54, 77, 0.72);
   padding: 10px 24px 10px 18px;
   gap: 16px;
   text-align: left;
   color: var(--vp-c-text-2);
   text-decoration: none;
-  background-color: var(--vp-c-bg);
-  transition: box-shadow 0.1s ease, transform 0.1s ease;
+  background: rgba(10, 17, 26, 0.42);
+  transition: box-shadow 0.16s ease, transform 0.16s ease, border-color 0.16s ease, background-color 0.16s ease;
 
   &:hover {
-    border-color: var(--vp-c-brand);
+    border-color: rgba(42, 120, 203, 0.68);
+    background: rgba(10, 17, 26, 0.56);
     transform: translateY(-2px);
     color: var(--vp-c-text-1);
+    box-shadow: 0 10px 26px rgba(0, 0, 0, 0.38);
   }
 
   &:focus-visible {
