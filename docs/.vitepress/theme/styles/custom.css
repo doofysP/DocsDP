@@ -284,3 +284,176 @@
   height: 20px !important;
   flex-shrink: 0;
 }
+
+/* -------------------------------------------------------------------------- */
+/* UI */
+/* -------------------------------------------------------------------------- */
+
+:root {
+  --dp-bg: #090f16;
+  --dp-bg2: #0d1420;
+  --dp-bg3: #111b28;
+  --dp-border: #1b2a3d;
+  --dp-border2: #24364d;
+  --dp-blue: #2a78cb;
+  --dp-blue2: #1f6ab9;
+  --dp-light: #cacfdb;
+  --dp-light2: #9aa5b8;
+  --dp-light3: #6a7a8e;
+}
+
+html,
+body,
+.VPApp {
+  font-family: Inter, "Segoe UI", Roboto, Arial, sans-serif;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4,
+.VPNavBarTitle .title {
+  font-family: "Rajdhani", "Exo 2", Inter, "Segoe UI", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+.dark {
+  --vp-c-bg: var(--dp-bg);
+  --vp-c-bg-alt: var(--dp-bg2);
+  --vp-c-bg-elv: var(--dp-bg3);
+  --vp-c-divider: rgba(202, 207, 219, 0.1);
+  --vp-c-text-1: var(--dp-light);
+  --vp-c-text-2: var(--dp-light2);
+  --vp-c-text-3: var(--dp-light3);
+  --vp-c-brand-1: var(--dp-blue);
+  --vp-c-brand-2: var(--dp-blue2);
+  --vp-c-brand-3: #0f4f95;
+}
+
+.dark body {
+  background: radial-gradient(circle at top, #112338 0%, #04070d 58%, #010205 100%);
+}
+
+.dark .VPNav {
+  background: rgba(9, 15, 22, 0.62) !important;
+  backdrop-filter: blur(20px) saturate(1.2);
+  -webkit-backdrop-filter: blur(20px) saturate(1.2);
+  border-bottom: 1px solid rgba(33, 54, 78, 0.9);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.52);
+}
+
+html:not(.dark) .VPNav {
+  background: rgba(246, 247, 249, 0.58) !important;
+  backdrop-filter: blur(20px) saturate(1.15);
+  -webkit-backdrop-filter: blur(20px) saturate(1.15);
+}
+
+.dark .VPSidebar {
+  background: rgba(9, 15, 22, 0.78);
+  backdrop-filter: blur(16px) saturate(1.1);
+  -webkit-backdrop-filter: blur(16px) saturate(1.1);
+  border-right: 1px solid rgba(33, 54, 78, 0.62);
+}
+
+.dark .VPNavBar .link,
+.dark .VPSidebarItem .link,
+.dark .VPDocAsideOutline .outline-link {
+  transition: color 0.2s ease, text-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.dark .VPNavBar .link:hover,
+.dark .VPSidebarItem .link:hover {
+  color: #d7e9ff;
+  text-shadow: 0 0 12px rgba(42, 120, 203, 0.26);
+}
+
+.dark .vp-doc a {
+  color: #7fb5ee;
+}
+
+.dark .vp-doc a:hover {
+  color: #2a78cb;
+  text-shadow: 0 0 10px rgba(42, 120, 203, 0.24);
+}
+
+.dark .vp-doc div[class*='language-'],
+.dark .vp-doc .custom-block,
+.dark .VPDocAsideOutline,
+.dark .VPDocFooter {
+  background: rgba(10, 17, 26, 0.72);
+  border: 1px solid rgba(36, 54, 77, 0.82);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.42);
+  backdrop-filter: blur(10px) saturate(1.08);
+  -webkit-backdrop-filter: blur(10px) saturate(1.08);
+  border-radius: 10px;
+}
+
+/* Footer del documento sin reflejo/degradado visual */
+.dark .VPDocFooter {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border-radius: 0;
+}
+
+/* Evita "tarjeta dentro de tarjeta" en la tabla de contenido lateral */
+.dark .VPDoc .aside {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.dark .vp-doc blockquote {
+  border-left: 2px solid #2a78cb;
+  background: rgba(42, 120, 203, 0.08);
+  border-radius: 0 8px 8px 0;
+}
+
+.VPFeature,
+.VPCard,
+.vp-doc .custom-block {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.VPFeature:hover,
+.VPCard:hover,
+.vp-doc .custom-block:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.45);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .VPFeature,
+  .VPCard,
+  .vp-doc .custom-block,
+  .dark .VPNavBar .link,
+  .dark .VPSidebarItem .link,
+  .dark .VPDocAsideOutline .outline-link {
+    transition: none !important;
+  }
+}
+
+/* Iconos sociales del header: tamaño uniforme */
+.VPSocialLinks .VPSocialLink svg,
+.VPSocialLinks .VPSocialLink .icon {
+  width: 18px !important;
+  height: 18px !important;
+  display: block;
+  flex-shrink: 0;
+}
+
+/* Telegram un poco mayor para igualar presencia visual con Facebook */
+.VPSocialLinks .VPSocialLink[href*="telegram"] svg,
+.VPSocialLinks .VPSocialLink[href*="t.me"] svg {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.VPSocialLinks .VPSocialLink[href*="dprojects.org"] svg {
+  width: 24px !important;
+  height: 24px !important;
+}
